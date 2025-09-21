@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "Propose"; ObjectID = "gRy-rB-HQ9"; */
+"gRy-rB-HQ9.title" = "Предложить";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "k2v-4j-ciB"; */
+"k2v-4j-ciB.title" = "Отмена";
+
+/* Class = "NSButtonCell"; title = "Availability"; ObjectID = "VHr-8h-KSC"; */
+"VHr-8h-KSC.title" = "Доступность";

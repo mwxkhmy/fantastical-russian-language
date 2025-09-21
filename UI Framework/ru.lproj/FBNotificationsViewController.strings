@@ -1,0 +1,47 @@
+/* Class = "NSTextFieldCell"; title = "Notifications"; ObjectID = "4f7-Nv-8Yf"; */
+"4f7-Nv-8Yf.title" = "Уведомления";
+
+/* Class = "NSButtonCell"; title = "Reply"; ObjectID = "5ye-Qc-cLv"; */
+"5ye-Qc-cLv.title" = "Ответить";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "aJJ-2p-NHX"; */
+"aJJ-2p-NHX.title" = "Принять";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "eH1-39-rsM"; */
+"eH1-39-rsM.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "fuI-88-YFY"; */
+"fuI-88-YFY.title" = "Добавить";
+
+/* Class = "NSTextFieldCell"; title = "From:"; ObjectID = "fwO-pL-hP3"; */
+"fwO-pL-hP3.title" = "От:";
+
+/* Class = "NSButtonCell"; title = "Ignore"; ObjectID = "Iyv-lu-akv"; */
+"Iyv-lu-akv.title" = "Игнорировать";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "LfX-b5-HgG"; */
+"LfX-b5-HgG.title" = "Отклонить";
+
+/* Class = "NSTextFieldCell"; title = "The organizer has not requested a response."; ObjectID = "Mvy-Td-TY4"; */
+"Mvy-Td-TY4.title" = "Организатор не запрашивал ответ.";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "Nzi-NB-RCj"; */
+"Nzi-NB-RCj.title" = "Принять";
+
+/* Class = "NSButtonCell"; title = "Discard"; ObjectID = "Ocz-8r-z97"; */
+"Ocz-8r-z97.title" = "Удалить";
+
+/* Class = "NSButtonCell"; title = "Maybe"; ObjectID = "oIo-AE-gdg"; */
+"oIo-AE-gdg.title" = "Возможно";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "onG-Oy-mPT"; */
+"onG-Oy-mPT.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "pME-uH-n3T"; */
+"pME-uH-n3T.title" = "Предпросмотр";
+
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "RCB-Je-REb"; */
+"RCB-Je-REb.title" = "Принять";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "sua-IH-Vr8"; */
+"sua-IH-Vr8.title" = "Отклонить";

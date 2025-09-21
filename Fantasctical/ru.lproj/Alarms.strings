@@ -1,0 +1,48 @@
+/* mwxkhmy */
+/* Class = "NSBox"; title = "Timed Events"; ObjectID = "4"; */
+"4.title" = "События с временем"; 
+
+/* Class = "NSBox"; title = "All-Day Events"; ObjectID = "5"; */
+"5.title" = "Целодневные события"; 
+
+/* Class = "NSTextFieldCell"; title = "Fantastical uses your location, locations of upcoming events, and traffic conditions to tell you when you need to leave. You will not receive notifications for events that are more than three hours away."; ObjectID = "5gB-bR-92f"; */
+"5gB-bR-92f.title" = "Fantastical использует ваше местоположение, места предстоящих событий и данные о пробках, чтобы сообщить, когда вам нужно выходить. Уведомления не будут приходить для событий, которые начнутся более чем через три часа."; 
+
+/* Class = "NSTextFieldCell"; title = "Automatically add an alert to all new:"; ObjectID = "8"; */
+"8.title" = "Автоматически добавлять напоминание ко всем новым:"; 
+
+/* Class = "NSButtonCell"; title = "Show invitation messages in Notification Center"; ObjectID = "9eu-7V-tuF"; */
+"9eu-7V-tuF.title" = "Показывать приглашения в Центре уведомлений"; 
+
+/* Class = "NSButtonCell"; title = "Show forwarded emails in Notification Center"; ObjectID = "F83-Qn-elz"; */
+"F83-Qn-elz.title" = "Показывать пересланные письма в Центре уведомлений"; 
+
+/* Class = "NSButtonCell"; title = "Show time to leave notifications"; ObjectID = "FH6-tQ-YHi"; */
+"FH6-tQ-YHi.title" = "Показывать уведомления о времени выхода"; 
+
+/* Class = "NSButtonCell"; title = "Show notifications for all-day tasks"; ObjectID = "IRx-aX-uqe"; */
+"IRx-aX-uqe.title" = "Показывать уведомления для целодневных задач"; 
+
+/* Class = "NSMenuItem"; title = "Driving"; ObjectID = "lFK-Sk-4m9"; */
+"lFK-Sk-4m9.title" = "На автомобиле"; 
+
+/* Class = "NSButtonCell"; title = "Show shared calendar messages in Notification Center"; ObjectID = "lYO-JQ-rgY"; */
+"lYO-JQ-rgY.title" = "Показывать сообщения общих календарей в Центре уведомлений"; 
+
+/* Class = "NSBox"; title = "Birthdays & Anniversaries"; ObjectID = "NOU-Ad-uvm"; */
+"NOU-Ad-uvm.title" = "Дни рождения и годовщины"; 
+
+/* Class = "NSTextFieldCell"; title = "On the day the task is due"; ObjectID = "oDd-vg-azp"; */
+"oDd-vg-azp.title" = "В день выполнения задачи"; 
+
+/* Class = "NSTextFieldCell"; title = "Default transportation type:"; ObjectID = "s7d-oq-bJg"; */
+"s7d-oq-bJg.title" = "Тип транспорта по умолчанию:"; 
+
+/* Class = "NSButtonCell"; title = "Add default alerts when accepting invitations"; ObjectID = "UdE-c4-33i"; */
+"UdE-c4-33i.title" = "Добавлять стандартные напоминания при принятии приглашений"; 
+
+/* Class = "NSMenuItem"; title = "Walking"; ObjectID = "w54-9S-RhZ"; */
+"w54-9S-RhZ.title" = "Пешком"; 
+
+/* Class = "NSMenuItem"; title = "Transit"; ObjectID = "yhH-vD-xcd"; */
+"yhH-vD-xcd.title" = "Общественный транспорт"; 

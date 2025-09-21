@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "my status:"; ObjectID = "Jrl-O3-1LV"; */
+"Jrl-O3-1LV.title" = "Мой статус:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "status"; ObjectID = "TmM-8k-SqV"; */
+"TmM-8k-SqV.ibExternalAccessibilityDescription" = "статус";
+
+/* Class = "NSMenuItem"; title = "No Reply"; ObjectID = "U3L-b1-nux"; */
+"U3L-b1-nux.title" = "Нет ответа";

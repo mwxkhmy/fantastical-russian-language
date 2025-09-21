@@ -1,0 +1,11 @@
+/* Class = "NSButtonCell"; title = "Accept"; ObjectID = "9tf-Mu-E19"; */
+"9tf-Mu-E19.title" = "Принять";
+
+/* Class = "NSButtonCell"; title = "Maybe"; ObjectID = "n94-pB-JVC"; */
+"n94-pB-JVC.title" = "Возможно";
+
+/* Class = "NSTextFieldCell"; title = "The organizer has not requested a response."; ObjectID = "yLZ-GQ-7HW"; */
+"yLZ-GQ-7HW.title" = "Организатор не запрашивал ответ.";
+
+/* Class = "NSButtonCell"; title = "Decline"; ObjectID = "ZgG-Xi-QNl"; */
+"ZgG-Xi-QNl.title" = "Отклонить";

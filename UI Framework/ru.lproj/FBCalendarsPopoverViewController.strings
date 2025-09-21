@@ -1,0 +1,8 @@
+/* Class = "NSView"; ibExternalAccessibilityDescription = "is enabled"; ObjectID = "0O4-bX-h27"; */
+"0O4-bX-h27.ibExternalAccessibilityDescription" = "включено";
+
+/* Class = "NSTextFieldCell"; title = "Calendar set:"; ObjectID = "nda-Ff-coV"; */
+"nda-Ff-coV.title" = "Группа календарей:";
+
+/* Class = "NSTextFieldCell"; title = "Section"; ObjectID = "Z8w-Sg-SJb"; */
+"Z8w-Sg-SJb.title" = "Раздел";

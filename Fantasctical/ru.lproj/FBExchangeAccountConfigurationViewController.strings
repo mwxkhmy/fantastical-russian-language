@@ -1,0 +1,50 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "0tH-c8-mjj"; */
+"0tH-c8-mjj.placeholderString" = "Обязательно";
+
+/* Class = "NSButtonCell"; title = "Manage Delegates…"; ObjectID = "ADL-BW-kkm"; */
+"ADL-BW-kkm.title" = "Управлять делегатами…";
+
+/* Class = "NSButtonCell"; title = "Authorize Microsoft Teams…"; ObjectID = "bUC-9w-C5U"; */
+"bUC-9w-C5U.title" = "Авторизовать Microsoft Teams…";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "bWe-bp-x95"; */
+"bWe-bp-x95.title" = "Имя пользователя:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Description"; ObjectID = "D2n-WI-uxS"; */
+"D2n-WI-uxS.placeholderString" = "Описание";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "df9-cj-kmR"; */
+"df9-cj-kmR.ibExternalAccessibilityDescription" = "пароль";
+
+/* Class = "NSTextFieldCell"; title = "Refresh calendars:"; ObjectID = "DgG-ZF-yjV"; */
+"DgG-ZF-yjV.title" = "Обновлять календари:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "EfA-gi-4zt"; */
+"EfA-gi-4zt.title" = "Пароль:";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "eLs-de-Zkn"; */
+"eLs-de-Zkn.title" = "Описание:";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "Fs3-mA-64K"; */
+"Fs3-mA-64K.placeholderString" = "Обязательно";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "pif-pQ-HJ4"; */
+"pif-pQ-HJ4.ibExternalAccessibilityDescription" = "имя пользователя";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "description"; ObjectID = "pR1-va-GRp"; */
+"pR1-va-GRp.ibExternalAccessibilityDescription" = "описание";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "enable account"; ObjectID = "scU-4E-0sW"; */
+"scU-4E-0sW.ibExternalAccessibilityDescription" = "включить учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to enable this account"; ObjectID = "scU-4E-0sW"; */
+"scU-4E-0sW.ibExternalAccessibilityHelp" = "включите, чтобы активировать эту учётную запись";
+
+/* Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "TyW-29-YNc"; */
+"TyW-29-YNc.title" = "Включить эту учётную запись";
+
+/* Class = "NSButtonCell"; title = "Public Folders…"; ObjectID = "xu5-hd-2Ki"; */
+"xu5-hd-2Ki.title" = "Общие папки…";
+
+/* Class = "NSButtonCell"; title = "Add Microsoft Teams to new events"; ObjectID = "yp0-NP-UnF"; */
+"yp0-NP-UnF.title" = "Добавлять встречу Microsoft Teams\nк новым событиям";

@@ -1,0 +1,71 @@
+/* Class = "NSMenuItem"; title = "minutes before"; ObjectID = "1zK-ss-Ias"; */
+"1zK-ss-Ias.title" = "минут до";
+
+/* Class = "NSMenuItem"; title = "days after"; ObjectID = "3vl-Iz-30v"; */
+"3vl-Iz-30v.title" = "дней после";
+
+/* Class = "NSTextFieldCell"; title = "at"; ObjectID = "aCU-F4-ysh"; */
+"aCU-F4-ysh.title" = "в";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "options"; ObjectID = "bCZ-kT-v5t"; */
+"bCZ-kT-v5t.ibExternalAccessibilityDescription" = "опции";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "time interval"; ObjectID = "d04-Xd-UYZ"; */
+"d04-Xd-UYZ.ibExternalAccessibilityDescription" = "интервал времени";
+
+/* Class = "NSMenuItem"; title = "Message with sound"; ObjectID = "fBU-hc-81v"; */
+"fBU-hc-81v.title" = "Сообщение со звуком";
+
+/* Class = "NSMenuItem"; title = "hours after"; ObjectID = "GLg-iH-qAH"; */
+"GLg-iH-qAH.title" = "часов после";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "gs4-iL-Rs7"; */
+"gs4-iL-Rs7.title" = "Отмена";
+
+/* Class = "NSMenuItem"; title = "days before"; ObjectID = "hnK-Fk-h5u"; */
+"hnK-Fk-h5u.title" = "дней до";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Location"; ObjectID = "hWO-q1-DIX"; */
+"hWO-q1-DIX.placeholderString" = "Место";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "location"; ObjectID = "LIz-NO-YKF"; */
+"LIz-NO-YKF.ibExternalAccessibilityDescription" = "место";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "luC-Cy-2Ls"; */
+"luC-Cy-2Ls.title" = "OK";
+
+/* Class = "NSMenuItem"; title = "At time of event"; ObjectID = "M5V-TI-NQf"; */
+"M5V-TI-NQf.title" = "Во время события";
+
+/* Class = "NSMenuItem"; title = "hours before"; ObjectID = "nTy-Zm-tiC"; */
+"nTy-Zm-tiC.title" = "часов до";
+
+/* Class = "NSWindow"; title = "Custom Alert"; ObjectID = "NXW-jF-QyI"; */
+"NXW-jF-QyI.title" = "Пользовательское напоминание";
+
+/* Class = "NSMenuItem"; title = "minutes after"; ObjectID = "Pex-A6-vBz"; */
+"Pex-A6-vBz.title" = "минут после";
+
+/* Class = "NSTabView"; ibExternalAccessibilityDescription = "date"; ObjectID = "sHO-cH-c4U"; */
+"sHO-cH-c4U.ibExternalAccessibilityDescription" = "дата";
+
+/* Class = "NSTabView"; ibExternalAccessibilityHelp = "select the date and of the alert"; ObjectID = "sHO-cH-c4U"; */
+"sHO-cH-c4U.ibExternalAccessibilityHelp" = "выберите дату напоминания";
+
+/* Class = "NSMenuItem"; title = "on date"; ObjectID = "tmb-8d-IKD"; */
+"tmb-8d-IKD.title" = "На дату";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "alert type"; ObjectID = "Tmb-kz-5OT"; */
+"Tmb-kz-5OT.ibExternalAccessibilityDescription" = "тип напоминания";
+
+/* Class = "NSMenuItem"; title = "Message"; ObjectID = "vUX-op-jLP"; */
+"vUX-op-jLP.title" = "Сообщение";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "time interval"; ObjectID = "xTM-kV-xuK"; */
+"xTM-kV-xuK.ibExternalAccessibilityDescription" = "интервал времени";
+
+/* Class = "NSMenuItem"; title = "Email"; ObjectID = "xvQ-6p-UGe"; */
+"xvQ-6p-UGe.title" = "Электронная почта";
+
+/* Class = "NSMenuItem"; title = "Location"; ObjectID = "Yba-QK-EiQ"; */
+"Yba-QK-EiQ.title" = "Место";

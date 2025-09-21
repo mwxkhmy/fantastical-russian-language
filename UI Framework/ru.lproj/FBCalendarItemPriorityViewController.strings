@@ -1,0 +1,17 @@
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "4hd-Dt-y2P"; */
+"4hd-Dt-y2P.title" = "Высокий";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "DtB-bB-MTP"; */
+"DtB-bB-MTP.title" = "Нет";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "Jm9-BK-rgI"; */
+"Jm9-BK-rgI.title" = "Средний";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "pOT-OZ-1bu"; */
+"pOT-OZ-1bu.title" = "Низкий";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "priority"; ObjectID = "PRY-Ev-iwi"; */
+"PRY-Ev-iwi.ibExternalAccessibilityDescription" = "приоритет";
+
+/* Class = "NSTextFieldCell"; title = "priority"; ObjectID = "z89-P2-JuT"; */
+"z89-P2-JuT.title" = "приоритет";

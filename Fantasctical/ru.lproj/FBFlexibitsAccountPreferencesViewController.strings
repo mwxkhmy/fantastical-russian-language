@@ -1,0 +1,38 @@
+/* Class = "NSButtonCell"; title = "Show Key"; ObjectID = "7CE-Gg-Tev"; */
+"7CE-Gg-Tev.title" = "Показать ключ";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "76W-KP-e8Y"; */
+"76W-KP-e8Y.title" = "Выйти";
+
+/* Class = "NSButtonCell"; title = "Manage Account"; ObjectID = "fFm-pL-T5K"; */
+"fFm-pL-T5K.title" = "Управление учётной записью";
+
+/* Class = "NSButtonCell"; title = "Delete Flexibits Account"; ObjectID = "gqW-se-5SH"; */
+"gqW-se-5SH.title" = "Удалить учётную запись Flexibits";
+
+/* Class = "NSButtonCell"; title = "Sign In…"; ObjectID = "H0C-vT-fsy"; */
+"H0C-vT-fsy.title" = "Войти…";
+
+/* Class = "NSTextFieldCell"; title = "Fantastical requires an account to take advantage of all its features.\n\nSign in and start your subscription to take advantage of everything that Fantastical has to offer!"; ObjectID = "JI0-4k-zaU"; */
+"JI0-4k-zaU.title" = "Для использования всех функций Fantastical требуется учётная запись.\n\nВойдите и оформите подписку, чтобы получить доступ ко всем возможностям Fantastical!";
+
+/* Class = "NSTextFieldCell"; title = "Account Encryption Key"; ObjectID = "Ne0-aA-juR"; */
+"Ne0-aA-juR.title" = "Ключ шифрования учётной записи";
+
+/* Class = "NSButtonCell"; title = "Create Account…"; ObjectID = "ngP-ew-K2q"; */
+"ngP-ew-K2q.title" = "Создать учётную запись…";
+
+/* Class = "NSButtonCell"; title = "Manage Subscription"; ObjectID = "Pv2-mb-Qh2"; */
+"Pv2-mb-Qh2.title" = "Управление подпиской";
+
+/* Class = "NSButtonCell"; title = "Manage Analytics"; ObjectID = "qa4-IJ-T0w"; */
+"qa4-IJ-T0w.title" = "Управление аналитикой";
+
+/* Class = "NSTextFieldCell"; title = "Do not share your account key with Flexibits or anyone else."; ObjectID = "rQM-DW-1ub"; */
+"rQM-DW-1ub.title" = "Не передавайте ключ своей учётной записи Flexibits или кому-либо ещё.";
+
+/* Class = "NSButtonCell"; title = "Copy Key"; ObjectID = "TdJ-tU-mPm"; */
+"TdJ-tU-mPm.title" = "Скопировать ключ";
+
+/* Class = "NSTextFieldCell"; title = "Your account key encrypts and secures your synced data and is not a license code. You will only need your account key to sign in to another device if it is not logged in to the same iCloud account."; ObjectID = "vEf-Se-iT8"; */
+"vEf-Se-iT8.title" = "Ключ вашей учётной записи шифрует и защищает синхронизированные данные. Это не лицензионный код. Ключ понадобится только для входа на другом устройстве, если оно не привязано к тому же аккаунту iCloud.";

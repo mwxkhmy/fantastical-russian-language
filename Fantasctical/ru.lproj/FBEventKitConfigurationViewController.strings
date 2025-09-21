@@ -1,0 +1,14 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "use local calendars"; ObjectID = "0xt-2p-OR2"; */
+"0xt-2p-OR2.ibExternalAccessibilityDescription" = "использовать локальные календари";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to use local calendars"; ObjectID = "0xt-2p-OR2"; */
+"0xt-2p-OR2.ibExternalAccessibilityHelp" = "включите, чтобы использовать локальные календари";
+
+/* Class = "NSButtonCell"; title = "Show On My Mac calendars"; ObjectID = "hVU-2h-aGT"; */
+"hVU-2h-aGT.title" = "Показывать календари «На моём Mac»";
+
+/* Class = "NSButtonCell"; title = "Open Privacy Settings"; ObjectID = "mfm-56-CcB"; */
+"mfm-56-CcB.title" = "Открыть настройки конфиденциальности";
+
+/* Class = "NSTextFieldCell"; title = "Shows On My Mac calendars and subscriptions. If you have calendar accounts such as iCloud, Google, or Microsoft 365 you need to add them directly to Fantastical.\n\nSelect the Calendars & Lists tab to control which calendars and task lists are visible."; ObjectID = "Tm2-g6-GMN"; */
+"Tm2-g6-GMN.title" = "Отображает календари и подписки из раздела «На моём Mac». Если у вас есть учётные записи календарей, такие как iCloud, Google или Microsoft 365, их нужно добавить напрямую в Fantastical.\n\nЧтобы настроить, какие календари и списки задач отображаются, выберите вкладку «Календари и списки».";

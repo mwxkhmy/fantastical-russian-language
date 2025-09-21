@@ -1,0 +1,17 @@
+/* Class = "NSButtonCell"; title = "Copy Link"; ObjectID = "CYN-Fo-9sZ"; */
+"CYN-Fo-9sZ.title" = "Копировать ссылку";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Done"; ObjectID = "etZ-Ed-ZGO"; */
+"etZ-Ed-ZGO.ibExternalAccessibilityDescription" = "готово";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "FOQ-BI-uOa"; */
+"FOQ-BI-uOa.title" = "Готово";
+
+/* Class = "NSTextFieldCell"; title = "Your event proposal has been created. Share the link with the people you want to invite."; ObjectID = "h8D-GP-hhw"; */
+"h8D-GP-hhw.title" = "Ваше предложение события создано. Поделитесь ссылкой с людьми, которых хотите пригласить.";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Share Link"; ObjectID = "MvW-pL-Hsj"; */
+"MvW-pL-Hsj.ibExternalAccessibilityDescription" = "поделиться ссылкой";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Copy Link"; ObjectID = "XrX-c6-s1P"; */
+"XrX-c6-s1P.ibExternalAccessibilityDescription" = "скопировать ссылку";

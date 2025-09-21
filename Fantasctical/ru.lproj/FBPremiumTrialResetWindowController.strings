@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Flexibits Premium is even better since you last tried it!\n\nWe’d love for you to try Flexibits Premium again for free for 14 days."; ObjectID = "8Id-nn-HH7"; */
+"8Id-nn-HH7.title" = "С тех пор, как вы последний раз пробовали Flexibits Premium, он стал ещё лучше!\n\nМы будем рады, если вы снова попробуете Flexibits Premium бесплатно на 14 дней.";
+
+/* Class = "NSTextFieldCell"; title = "Try for Free Again?"; ObjectID = "Dcq-4r-YWv"; */
+"Dcq-4r-YWv.title" = "Попробовать снова бесплатно?";
+
+/* Class = "NSButtonCell"; title = "Try For Free"; ObjectID = "qGk-L9-Z7P"; */
+"qGk-L9-Z7P.title" = "Попробовать бесплатно";
+
+/* Class = "NSWindow"; title = "Flexibits Premium"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Flexibits Premium";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "zTm-Jm-Bwx"; */
+"zTm-Jm-Bwx.title" = "Закрыть";

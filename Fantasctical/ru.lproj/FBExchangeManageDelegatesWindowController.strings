@@ -1,0 +1,23 @@
+/* Class = "NSTableColumn"; headerCell.title = "Tasks"; ObjectID = "c4b-V5-5qf"; */
+"c4b-V5-5qf.headerCell.title" = "Задачи";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "add account"; ObjectID = "Cvs-na-OX0"; */
+"Cvs-na-OX0.ibExternalAccessibilityDescription" = "добавить учётную запись";
+
+/* Class = "NSTableColumn"; headerCell.title = "Show"; ObjectID = "fzi-fI-rQ2"; */
+"fzi-fI-rQ2.headerCell.title" = "Показывать";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "remove account"; ObjectID = "gq9-bB-RiU"; */
+"gq9-bB-RiU.ibExternalAccessibilityDescription" = "удалить учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "Enable the users whose calendars you want to see."; ObjectID = "kWV-Ky-MFd"; */
+"kWV-Ky-MFd.title" = "Включите пользователей, чьи календари вы хотите видеть.";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "Mw0-lz-34B"; */
+"Mw0-lz-34B.title" = "Готово";
+
+/* Class = "NSTableColumn"; headerCell.title = "Events"; ObjectID = "OtO-Dv-CHI"; */
+"OtO-Dv-CHI.headerCell.title" = "События";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "xcb-hP-Uo5"; */
+"xcb-hP-Uo5.headerCell.title" = "Имя";

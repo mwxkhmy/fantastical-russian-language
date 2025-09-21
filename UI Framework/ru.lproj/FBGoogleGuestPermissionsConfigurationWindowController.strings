@@ -1,0 +1,23 @@
+/* Class = "NSButtonCell"; title = "See guest list"; ObjectID = "2Hn-Nk-jHF"; */
+"2Hn-Nk-jHF.title" = "Показать список гостей";
+
+/* Class = "NSButtonCell"; title = "Invite others"; ObjectID = "52Z-xp-aGh"; */
+"52Z-xp-aGh.title" = "Пригласить других";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "cbE-jk-H3u"; */
+"cbE-jk-H3u.title" = "OK";
+
+/* Class = "NSWindow"; title = "Invitee Permissions"; ObjectID = "dJE-Ex-XJn"; */
+"dJE-Ex-XJn.title" = "Права участников";
+
+/* Class = "NSTextFieldCell"; title = "Control what invitees can see and do."; ObjectID = "lg9-6k-LzZ"; */
+"lg9-6k-LzZ.title" = "Определите, что могут видеть и делать участники.";
+
+/* Class = "NSTextFieldCell"; title = "Invitee Permissions"; ObjectID = "pJF-Wh-NHA"; */
+"pJF-Wh-NHA.title" = "Права участников";
+
+/* Class = "NSButtonCell"; title = "Modify event"; ObjectID = "UfV-SF-gHP"; */
+"UfV-SF-gHP.title" = "Изменить событие";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "wAJ-rj-td2"; */
+"wAJ-rj-td2.title" = "Отмена";

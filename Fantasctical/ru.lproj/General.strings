@@ -1,0 +1,146 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "end of day"; ObjectID = "2H2-wl-zcw"; */
+"2H2-wl-zcw.ibExternalAccessibilityDescription" = "окончание дня";
+
+/* Class = "NSTextFieldCell"; title = "Start week on:"; ObjectID = "3GH-vB-LLb"; */
+"3GH-vB-LLb.title" = "Начало недели:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "run in background"; ObjectID = "5"; */
+"5.ibExternalAccessibilityDescription" = "работать в фоне";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to keep Fantastical running in the background so you always receive updates to your calendar and notifications"; ObjectID = "5"; */
+"5.ibExternalAccessibilityHelp" = "включите, чтобы Fantastical продолжал работать в фоне и вы всегда получали обновления календаря и уведомления";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "first weekday"; ObjectID = "5Le-6o-bAh"; */
+"5Le-6o-bAh.ibExternalAccessibilityDescription" = "первый день недели";
+
+/* Class = "NSTextFieldCell"; title = "Default event duration:"; ObjectID = "5yz-zF-eau"; */
+"5yz-zF-eau.title" = "Длительность события по умолчанию:";
+
+/* Class = "NSButtonCell"; title = "Run in background"; ObjectID = "6"; */
+"6.title" = "Работать в фоне";
+
+/* Class = "NSTextFieldCell"; title = "Days in week view:"; ObjectID = "7p4-7z-Fst"; */
+"7p4-7z-Fst.title" = "Дней в неделю:";
+
+/* Class = "NSTextFieldCell"; title = "Mini window keyboard shortcut:"; ObjectID = "20"; */
+"20.title" = "Горячая клавиша мини-окна:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default calendar"; ObjectID = "26"; */
+"26.ibExternalAccessibilityDescription" = "календарь по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select which calendar to add events to by default"; ObjectID = "26"; */
+"26.ibExternalAccessibilityHelp" = "выберите, в какой календарь по умолчанию добавлять события";
+
+/* Class = "NSTextFieldCell"; title = "Default calendar:"; ObjectID = "30"; */
+"30.title" = "Календарь по умолчанию:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "play user interface sounds"; ObjectID = "57"; */
+"57.ibExternalAccessibilityDescription" = "воспроизводить звуки интерфейса";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to play a sound when adding an event"; ObjectID = "57"; */
+"57.ibExternalAccessibilityHelp" = "включите, чтобы воспроизводить звук при добавлении события";
+
+/* Class = "NSButtonCell"; title = "Play user interface sounds"; ObjectID = "58"; */
+"58.title" = "Воспроизводить звуки интерфейса";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "activation keyboard shortcut"; ObjectID = "74"; */
+"74.ibExternalAccessibilityDescription" = "горячая клавиша активации";
+
+/* Class = "NSView"; ibExternalAccessibilityHelp = "the keyboard shortcut used to activate Fantastical"; ObjectID = "74"; */
+"74.ibExternalAccessibilityHelp" = "горячая клавиша для активации Fantastical";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default task list"; ObjectID = "101"; */
+"101.ibExternalAccessibilityDescription" = "список задач по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select which list to add tasks to by default"; ObjectID = "101"; */
+"101.ibExternalAccessibilityHelp" = "выберите, в какой список по умолчанию добавлять задачи";
+
+/* Class = "NSTextFieldCell"; title = "Default task list:"; ObjectID = "104"; */
+"104.title" = "Список задач по умолчанию:";
+
+/* Class = "NSMenuItem"; title = "45 Minutes"; ObjectID = "ASs-OK-BbL"; */
+"ASs-OK-BbL.title" = "45 минут";
+
+/* Class = "NSMenuItem"; title = "1 Hour"; ObjectID = "bI9-Ww-VIF"; */
+"bI9-Ww-VIF.title" = "1 час";
+
+/* Class = "NSTextFieldCell"; title = "Start month view on:"; ObjectID = "BWP-A0-o5x"; */
+"BWP-A0-o5x.title" = "Начало месяца в календаре:";
+
+/* Class = "NSTextFieldCell"; title = "Day ends at:"; ObjectID = "FTY-8N-1ah"; */
+"FTY-8N-1ah.title" = "Окончание дня:";
+
+/* Class = "NSButtonCell"; title = "Date & Time Formats…"; ObjectID = "g6v-GN-O4B"; */
+"g6v-GN-O4B.title" = "Форматы даты и времени…";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default event duration"; ObjectID = "Hcr-EG-AOX"; */
+"Hcr-EG-AOX.ibExternalAccessibilityDescription" = "длительность события по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "start quarter view on"; ObjectID = "hCu-PX-pGJ"; */
+"hCu-PX-pGJ.ibExternalAccessibilityDescription" = "начало квартала в календаре";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "start month view on"; ObjectID = "jWU-FN-ft8"; */
+"jWU-FN-ft8.ibExternalAccessibilityDescription" = "начало месяца в календаре";
+
+/* Class = "NSButtonCell"; title = "Only show hours from day start to end"; ObjectID = "LGt-m1-5dL"; */
+"LGt-m1-5dL.title" = "Показывать только часы с начала до конца дня";
+
+/* Class = "NSMenuItem"; title = "2 Hours"; ObjectID = "liC-xx-B7a"; */
+"liC-xx-B7a.title" = "2 часа";
+
+/* Class = "NSTextFieldCell"; title = "Show:"; ObjectID = "mpI-Xk-WSK"; */
+"mpI-Xk-WSK.title" = "Показывать:";
+
+/* Class = "NSMenuItem"; title = "90 Minutes"; ObjectID = "nRT-Ze-Z6t"; */
+"nRT-Ze-Z6t.title" = "90 минут";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "start week view on"; ObjectID = "PaR-bb-EED"; */
+"PaR-bb-EED.ibExternalAccessibilityDescription" = "начало недели в календаре";
+
+/* Class = "NSTextFieldCell"; title = "Weeks in quarter view:"; ObjectID = "PCY-VY-zmB"; */
+"PCY-VY-zmB.title" = "Недель в квартале:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "start of day"; ObjectID = "RSe-P2-J6m"; */
+"RSe-P2-J6m.ibExternalAccessibilityDescription" = "начало дня";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "days per week"; ObjectID = "Sla-UM-PKG"; */
+"Sla-UM-PKG.ibExternalAccessibilityDescription" = "дней в неделю";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "weeks per month"; ObjectID = "sqK-xo-9EY"; */
+"sqK-xo-9EY.ibExternalAccessibilityDescription" = "недель в месяце";
+
+/* Class = "NSTextFieldCell"; title = "hours at a time"; ObjectID = "sYN-Ca-nCk"; */
+"sYN-Ca-nCk.title" = "часов за раз";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "number of hours to show at once in day and week view"; ObjectID = "t0s-fk-zzX"; */
+"t0s-fk-zzX.ibExternalAccessibilityDescription" = "количество часов, отображаемых сразу в режимах День и Неделя";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "weeks per quarter"; ObjectID = "TKg-tC-Rsk"; */
+"TKg-tC-Rsk.ibExternalAccessibilityDescription" = "недель в квартале";
+
+/* Class = "NSMenuItem"; title = "3 Hours"; ObjectID = "u7h-bA-ntb"; */
+"u7h-bA-ntb.title" = "3 часа";
+
+/* Class = "NSTextFieldCell"; title = "Allows Fantastical to sync, show notifications, and show the mini window even when Fantastical is quit."; ObjectID = "uH7-7f-CLJ"; */
+"uH7-7f-CLJ.title" = "Позволяет Fantastical синхронизироваться, показывать уведомления и мини-окно, даже когда приложение закрыто.";
+
+/* Class = "NSTextFieldCell"; title = "Weeks in month view:"; ObjectID = "WHr-Ni-4CM"; */
+"WHr-Ni-4CM.title" = "Недель в месяце:";
+
+/* Class = "NSMenuItem"; title = "15 Minutes"; ObjectID = "YhM-wH-UBg"; */
+"YhM-wH-UBg.title" = "15 минут";
+
+/* Class = "NSTextFieldCell"; title = "Day starts at:"; ObjectID = "yQU-i5-Fo6"; */
+"yQU-i5-Fo6.title" = "Начало дня:";
+
+/* Class = "NSMenuItem"; title = "30 Minutes"; ObjectID = "yRB-3m-oE1"; */
+"yRB-3m-oE1.title" = "30 минут";
+
+/* Class = "NSTextFieldCell"; title = "Start quarter view on:"; ObjectID = "YSr-Vj-3Xg"; */
+"YSr-Vj-3Xg.title" = "Начало квартала в календаре:";
+
+/* Class = "NSTextFieldCell"; title = "Start week view on:"; ObjectID = "z2c-1W-aWn"; */
+"z2c-1W-aWn.title" = "Начало недели в календаре:";
+
+/* Class = "NSMenuItem"; title = "0 Minutes"; ObjectID = "ZZZ-rQ-Zd0"; */
+"ZZZ-rQ-Zd0.title" = "0 минут";

@@ -1,0 +1,26 @@
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "92v-H1-fA7"; */
+"92v-H1-fA7.placeholderString" = "Обязательно";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "BTK-NR-7Qk"; */
+"BTK-NR-7Qk.title" = "Имя:";
+
+/* Class = "NSButtonCell"; title = "Create Account"; ObjectID = "ctK-mm-Ib1"; */
+"ctK-mm-Ib1.title" = "Создать учётную запись";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "f5H-xe-sl7"; */
+"f5H-xe-sl7.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Create a Flexibits Account to receive full access to Fantastical's features and to sign in to Fantastical on other devices. Your App Store subscription will be linked to your Flexibits Account.\n\nYou will receive a confirmation email to activate your account."; ObjectID = "mCC-kZ-5ir"; */
+"mCC-kZ-5ir.title" = "Создайте учётную запись Flexibits, чтобы получить полный доступ ко всем функциям Fantastical и входить в приложение с других устройств. Ваша подписка App Store будет привязана к учётной записи Flexibits.\n\nНа вашу почту придёт письмо для подтверждения и активации аккаунта.";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "moF-1O-uIn"; */
+"moF-1O-uIn.title" = "Подтвердите пароль:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "Mou-PE-Q6W"; */
+"Mou-PE-Q6W.title" = "Пароль:";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "qWL-KV-Qbv"; */
+"qWL-KV-Qbv.title" = "Email:";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "T1U-t1-LyH"; */
+"T1U-t1-LyH.placeholderString" = "Обязательно";

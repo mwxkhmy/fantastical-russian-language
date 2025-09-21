@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "Assign team tasks I create to myself"; ObjectID = "ENq-fz-fDs"; */
+"ENq-fz-fDs.title" = "Назначать созданные мной командные задачи себе";
+
+/* Class = "NSTextFieldCell"; title = "Tasks created in projects which support assignment will be assigned to you automatically."; ObjectID = "fUH-q9-xnQ"; */
+"fUH-q9-xnQ.title" = "Задачи, созданные в проектах, поддерживающих назначение, будут автоматически назначены вам.";
+
+/* Class = "NSButtonCell"; title = "Hide tasks assigned to others"; ObjectID = "QUX-a7-DSF"; */
+"QUX-a7-DSF.title" = "Скрывать задачи, назначенные другим";
+
+/* Class = "NSTextFieldCell"; title = "Tasks created by others and assigned to others will be hidden."; ObjectID = "rWh-hx-LM2"; */
+"rWh-hx-LM2.title" = "Задачи, созданные другими и назначенные другим, будут скрыты.";
+
+/* Class = "NSButtonCell"; title = "Hide tasks assigned to nobody"; ObjectID = "tXC-TM-wpS"; */
+"tXC-TM-wpS.title" = "Скрывать задачи, не назначенные никому";
+
+/* Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "uEB-bp-oIs"; */
+"uEB-bp-oIs.title" = "Включить эту учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "Unassigned tasks on shared lists will be hidden."; ObjectID = "xv2-fB-xEd"; */
+"xv2-fB-xEd.title" = "Неназначенные задачи в общих списках будут скрыты.";

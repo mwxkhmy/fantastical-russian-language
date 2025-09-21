@@ -1,0 +1,377 @@
+/* Class = "NSMenuItem"; title = "Create Template"; ObjectID = "1mo-dB-5RE"; */
+"1mo-dB-5RE.title" = "Создать шаблон";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "Все окна на передний план";
+
+/* Class = "NSMenuItem"; title = "Decline"; ObjectID = "5Rd-oB-Fli"; */
+"5Rd-oB-Fli.title" = "Отклонить";
+
+/* Class = "NSMenuItem"; title = "Show Notifications"; ObjectID = "7bq-nu-e81"; */
+"7bq-nu-e81.title" = "Показывать уведомления";
+
+/* Class = "NSMenuItem"; title = "Hidden Items…"; ObjectID = "7Ke-fh-q5u"; */
+"7Ke-fh-q5u.title" = "Скрытые события…";
+
+/* Class = "NSMenuItem"; title = "Previous"; ObjectID = "7yo-4X-zro"; */
+"7yo-4X-zro.title" = "Предыдущее";
+
+/* Class = "NSMenuItem"; title = "Quit Fantastical Completely"; ObjectID = "8GG-8q-ltE"; */
+"8GG-8q-ltE.title" = "Полностью выйти из Fantastical";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "8sd-U5-8Ot"; */
+"8sd-U5-8Ot.title" = "Другое…";
+
+/* Class = "NSMenuItem"; title = "New Calendar Subscription…"; ObjectID = "9cl-8o-eMN"; */
+"9cl-8o-eMN.title" = "Новая подписка на календарь…";
+
+/* Class = "NSMenuItem"; title = "By Year"; ObjectID = "9fv-Th-FoZ"; */
+"9fv-Th-FoZ.title" = "По году";
+
+/* Class = "NSMenuItem"; title = "Openings…"; ObjectID = "9Om-Gk-yJa"; */
+"9Om-Gk-yJa.title" = "Openings…";
+
+/* Class = "NSMenuItem"; title = "Release Notes"; ObjectID = "14H-NN-1cT"; */
+"14H-NN-1cT.title" = "Примечания к выпуску";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "Окно";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "Свернуть";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "Окно";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "About Fantastical"; ObjectID = "58"; */
+"58.title" = "О программе Fantastical";
+
+/* Class = "NSMenuItem"; title = "By Quarter"; ObjectID = "72h-fQ-cFc"; */
+"72h-fQ-cFc.title" = "По кварталу";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "Закрыть";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "Файл";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "Файл";
+
+/* Class = "NSMenuItem"; title = "Settings…"; ObjectID = "129"; */
+"129.title" = "Настройки…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "Службы";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "Службы";
+
+/* Class = "NSMenuItem"; title = "Quit Fantastical"; ObjectID = "136"; */
+"136.title" = "Выйти из Fantastical";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "195"; */
+"195.title" = "Остановить озвучивание";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "196"; */
+"196.title" = "Начать озвучивание";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "Копировать";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "Выбрать всё";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "Вырезать";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "200"; */
+"200.title" = "Правописание и грамматика";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "201"; */
+"201.title" = "Проверить сейчас";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "Удалить";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "Вставить";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "204"; */
+"204.title" = "Показать правописание и грамматику";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "Правка";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "Отменить";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "211"; */
+"211.title" = "Озвучивание";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "212"; */
+"212.title" = "Озвучивание";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "Повторить";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "216"; */
+"216.title" = "Правописание и грамматика";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "Правка";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "219"; */
+"219.title" = "Проверять орфографию при вводе";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "Масштаб";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "346"; */
+"346.title" = "Проверять грамматику вместе с орфографией";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "348"; */
+"348.title" = "Замены";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "349"; */
+"349.title" = "Замены";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "350"; */
+"350.title" = "Умное копирование/вставка";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "351"; */
+"351.title" = "Умные кавычки";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "354"; */
+"354.title" = "Умные ссылки";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "450"; */
+"450.title" = "Преобразования";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "451"; */
+"451.title" = "Преобразования";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "452"; */
+"452.title" = "Заглавные буквы";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "454"; */
+"454.title" = "Автоматически исправлять орфографию";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "457"; */
+"457.title" = "Показать замены";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "460"; */
+"460.title" = "Умные тире";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "462"; */
+"462.title" = "Замена текста";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "465"; */
+"465.title" = "Строчные буквы";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "466"; */
+"466.title" = "С заглавной буквы";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "485"; */
+"485.title" = "Вставить с совпадением стиля";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "490"; */
+"490.title" = "Справка";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "491"; */
+"491.title" = "Справка";
+
+/* Class = "NSMenuItem"; title = "Fantastical Help"; ObjectID = "492"; */
+"492.title" = "Справка Fantastical";
+
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "578-Cw-4kd"; */
+"578-Cw-4kd.title" = "Проверить обновления…";
+
+/* Class = "NSMenuItem"; title = "Go to Today"; ObjectID = "592"; */
+"592.title" = "Перейти к сегодняшнему дню";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "594"; */
+"594.title" = "Найти";
+
+/* Class = "NSMenuItem"; title = "New Item"; ObjectID = "595"; */
+"595.title" = "Новое событие";
+
+/* Class = "NSMenuItem"; title = "Hide Fantastical"; ObjectID = "610"; */
+"610.title" = "Скрыть Fantastical";
+
+/* Class = "NSMenuItem"; title = "Keep Mini Window in Front"; ObjectID = "615"; */
+"615.title" = "Держать мини-окно поверх остальных";
+
+/* Class = "NSMenuItem"; title = "Refresh All"; ObjectID = "628"; */
+"628.title" = "Обновить всё";
+
+/* Class = "NSMenuItem"; title = "Add Interesting Calendars…"; ObjectID = "aBa-YM-6qa"; */
+"aBa-YM-6qa.title" = "Добавить интересные календари…";
+
+/* Class = "NSMenuItem"; title = "Forward"; ObjectID = "adi-K1-eqq"; Note = "Menu item to forward an email"; */
+"adi-K1-eqq.title" = "Переслать";
+
+/* Class = "NSMenuItem"; title = "Availability"; ObjectID = "b3k-a7-q8e"; */
+"b3k-a7-q8e.title" = "Занятость";
+
+/* Class = "NSMenuItem"; title = "New Window"; ObjectID = "cUV-nE-yTZ"; */
+"cUV-nE-yTZ.title" = "Новое окно";
+
+/* Class = "NSMenuItem"; title = "By Week"; ObjectID = "dyE-k4-nu2"; */
+"dyE-k4-nu2.title" = "По неделе";
+
+/* Class = "NSMenuItem"; title = "Export…"; ObjectID = "Eay-cs-ZDG"; */
+"Eay-cs-ZDG.title" = "Экспорт…";
+
+/* Class = "NSTextFieldCell"; title = "Calendar:"; ObjectID = "ecz-vq-YsV"; */
+"ecz-vq-YsV.title" = "Календарь:";
+
+/* Class = "NSMenuItem"; title = "Go to Next Occurrence"; ObjectID = "Eic-dK-HpO"; */
+"Eic-dK-HpO.title" = "Перейти к следующему событию";
+
+/* Class = "NSMenuItem"; title = "New Calendar"; ObjectID = "eVa-ia-Fml"; */
+"eVa-ia-Fml.title" = "Новый календарь";
+
+/* Class = "NSMenuItem"; title = "Make Text Bigger"; ObjectID = "F3P-FZ-8Lr"; */
+"F3P-FZ-8Lr.title" = "Увеличить текст";
+
+/* Class = "NSMenuItem"; title = "New Task List"; ObjectID = "ffT-4j-wfC"; */
+"ffT-4j-wfC.title" = "Новый список задач";
+
+/* Class = "NSMenuItem"; title = "By List"; ObjectID = "fIf-Wc-7NK"; */
+"fIf-Wc-7NK.title" = "По списку";
+
+/* Class = "NSMenuItem"; title = "Duplicate as Task"; ObjectID = "FkU-mR-h09"; */
+"FkU-mR-h09.title" = "Создать копию как задачу";
+
+/* Class = "NSMenuItem"; title = "Calendar Sets"; ObjectID = "fQP-Dx-OTj"; */
+"fQP-Dx-OTj.title" = "Наборы календарей";
+
+/* Class = "NSMenuItem"; title = "Go to Date…"; ObjectID = "G6o-m8-aQx"; */
+"G6o-m8-aQx.title" = "Перейти к дате…";
+
+/* Class = "NSMenuItem"; title = "Full Calendar Window"; ObjectID = "Gg7-it-vdr"; */
+"Gg7-it-vdr.title" = "Основное окно";
+
+/* Class = "NSMenuItem"; title = "Diagnostics & Troubleshooting"; ObjectID = "GIb-PF-Ms8"; */
+"GIb-PF-Ms8.title" = "Диагностика и устранение неполадок";
+
+/* Class = "NSMenuItem"; title = "Next"; ObjectID = "H4r-Lp-11b"; */
+"H4r-Lp-11b.title" = "Следующее";
+
+/* Class = "NSMenuItem"; title = "Show Hidden Items"; ObjectID = "hlG-wp-u3k"; */
+"hlG-wp-u3k.title" = "Показать скрытые события";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "hpF-dq-XV3"; */
+"hpF-dq-XV3.title" = "Очистить меню";
+
+/* Class = "NSMenuItem"; title = "Show More"; ObjectID = "jq2-te-Ymo"; */
+"jq2-te-Ymo.title" = "Показать ещё";
+
+/* Class = "NSMenuItem"; title = "Import…"; ObjectID = "jRr-pQ-fEY"; */
+"jRr-pQ-fEY.title" = "Импорт…";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "jtH-iJ-acE"; */
+"jtH-iJ-acE.title" = "Создать копию";
+
+/* Class = "NSMenuItem"; title = "Make Text Smaller"; ObjectID = "kSY-Oy-RFy"; */
+"kSY-Oy-RFy.title" = "Уменьшить текст";
+
+/* Class = "NSMenuItem"; title = "Copy Week as Text"; ObjectID = "lGU-XU-Qtq"; */
+"lGU-XU-Qtq.title" = "Копировать неделю как текст";
+
+/* Class = "NSMenuItem"; title = "New Window"; ObjectID = "LSF-Zy-uYZ"; */
+"LSF-Zy-uYZ.title" = "Новое окно";
+
+/* Class = "NSMenu"; title = "Time Zone Override"; ObjectID = "lUV-pQ-09u"; */
+"lUV-pQ-09u.title" = "Фиксированная временная зона";
+
+/* Class = "NSMenu"; title = "New Task List"; ObjectID = "Lw0-7n-K2H"; */
+"Lw0-7n-K2H.title" = "Новый список задач";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "m8H-uN-9p3"; */
+"m8H-uN-9p3.title" = "Показать все";
+
+/* Class = "NSMenuItem"; title = "Quit Fantastical Completely"; ObjectID = "N1D-Xa-GW9"; */
+"N1D-Xa-GW9.title" = "Полностью выйти из Fantastical";
+
+/* Class = "NSMenuItem"; title = "Copy Day as Text"; ObjectID = "nC6-wZ-P8i"; */
+"nC6-wZ-P8i.title" = "Копировать день как текст";
+
+/* Class = "NSMenuItem"; title = "Time Zone Override"; ObjectID = "Nf5-jD-po4"; */
+"Nf5-jD-po4.title" = "Фиксированная временная зона";
+
+/* Class = "NSMenuItem"; title = "Tasks"; ObjectID = "Nhz-Er-fOS"; */
+"Nhz-Er-fOS.title" = "Задачи";
+
+/* Class = "NSMenuItem"; title = "Contact Flexibits Support"; ObjectID = "nud-0I-S7N"; */
+"nud-0I-S7N.title" = "Связаться со службой поддержки Flexibits";
+
+/* Class = "NSMenuItem"; title = "By Day"; ObjectID = "OEw-lq-n9R"; */
+"OEw-lq-n9R.title" = "По дню";
+
+/* Class = "NSMenuItem"; title = "By Month"; ObjectID = "OV9-SI-7lt"; */
+"OV9-SI-7lt.title" = "По месяцу";
+
+/* Class = "NSMenuItem"; title = "Terms of Service & Privacy Policy"; ObjectID = "q4x-u6-ygL"; */
+"q4x-u6-ygL.title" = "Условия использования и политика конфиденциальности";
+
+/* Class = "NSMenuItem"; title = "Toggle New Item Mode"; ObjectID = "Rlt-jr-t4q"; */
+"Rlt-jr-t4q.title" = "Переключить режим создания события";
+
+/* Class = "NSMenuItem"; title = "Go to Previous Occurrence"; ObjectID = "Rox-li-hyr"; */
+"Rox-li-hyr.title" = "Перейти к предыдущему событию";
+
+/* Class = "NSMenuItem"; title = "Combine Identical Events"; ObjectID = "rRN-ob-MNU"; */
+"rRN-ob-MNU.title" = "Объединить одинаковые события";
+
+/* Class = "NSMenuItem"; title = "Show Declined Events"; ObjectID = "SgS-QT-H28"; */
+"SgS-QT-H28.title" = "Показывать отклонённые события";
+
+/* Class = "NSMenu"; title = "Calendar Sets"; ObjectID = "slF-9a-htz"; */
+"slF-9a-htz.title" = "Наборы календарей";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "sqH-sX-PtG"; */
+"sqH-sX-PtG.title" = "Печать…";
+
+/* Class = "NSMenuItem"; title = "Accept"; ObjectID = "Sqv-Xg-VGr"; */
+"Sqv-Xg-VGr.title" = "Принять";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "T1G-TC-FaU"; */
+"T1G-TC-FaU.title" = "Вид";
+
+/* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "tFP-IC-Gsj"; */
+"tFP-IC-Gsj.title" = "Информация";
+
+/* Class = "NSMenuItem"; title = "Respond to Invitation"; ObjectID = "uig-g4-24m"; */
+"uig-g4-24m.title" = "Ответить на приглашение";
+
+/* Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "uyd-pA-mSC"; */
+"uyd-pA-mSC.title" = "Показать боковую панель";
+
+/* Class = "NSMenu"; title = "Respond to Invitation"; ObjectID = "V1S-qV-Oht"; */
+"V1S-qV-Oht.title" = "Ответить на приглашение";
+
+/* Class = "NSMenuItem"; title = "Maybe"; ObjectID = "v4Y-qa-AyV"; */
+"v4Y-qa-AyV.title" = "Возможно";
+
+/* Class = "NSMenuItem"; title = "Show Completed Tasks"; ObjectID = "vrf-h3-8bt"; */
+"vrf-h3-8bt.title" = "Показывать выполненные задачи";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "vSb-fC-bef"; */
+"vSb-fC-bef.title" = "Вид";
+
+/* Class = "NSMenuItem"; title = "New Item"; ObjectID = "WnF-hb-BMw"; */
+"WnF-hb-BMw.title" = "Новое событие";
+
+/* Class = "NSMenuItem"; title = "Mini Window"; ObjectID = "wXH-s8-aU8"; */
+"wXH-s8-aU8.title" = "Мини-окно";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "Za1-XH-wDb"; */
+"Za1-XH-wDb.title" = "Перейти в полноэкранный режим";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "ZYe-xz-m6p"; */
+"ZYe-xz-m6p.title" = "Скрыть остальные";

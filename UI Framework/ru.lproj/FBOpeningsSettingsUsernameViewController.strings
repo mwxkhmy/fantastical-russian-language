@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "86M-TA-tSd"; */
+"86M-TA-tSd.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Username:"; ObjectID = "cYn-Ot-19o"; */
+"cYn-Ot-19o.title" = "Имя пользователя:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Username"; ObjectID = "GWV-kl-eUh"; */
+"GWV-kl-eUh.placeholderString" = "Имя пользователя";
+
+/* Class = "NSTextFieldCell"; title = "Openings Username"; ObjectID = "QMj-nj-UEl"; */
+"QMj-nj-UEl.title" = "Имя пользователя Openings";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "r3F-GV-Wiw"; */
+"r3F-GV-Wiw.title" = "OK";

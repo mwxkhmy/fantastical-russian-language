@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "Create New Template"; ObjectID = "asG-eR-Cz9"; */
+"asG-eR-Cz9.title" = "Создать новый шаблон";
+
+/* Class = "NSTextFieldCell"; title = "No Meeting Templates"; ObjectID = "BCv-nf-1Ec"; */
+"BCv-nf-1Ec.title" = "Нет шаблонов встреч";
+
+/* Class = "NSTextFieldCell"; title = "Create meeting templates and start sharing your availability."; ObjectID = "KEa-hM-1MB"; */
+"KEa-hM-1MB.title" = "Создайте шаблон встречи и начните делиться своей доступностью.";

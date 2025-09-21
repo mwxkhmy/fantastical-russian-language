@@ -1,0 +1,111 @@
+/* mwxkhmy */
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "app icon badge shows"; ObjectID = "1em-hp-pzV"; */
+"1em-hp-pzV.ibExternalAccessibilityDescription" = "значок на иконке приложения показывает"; 
+
+/* Class = "NSMenuItem"; title = "Today's Remaining Items"; ObjectID = "1R8-1S-sdC"; */
+"1R8-1S-sdC.title" = "Оставшиеся на сегодня дела"; 
+
+/* Class = "NSMenuItem"; title = "All Overdue Tasks"; ObjectID = "3EV-dU-EJh"; */
+"3EV-dU-EJh.title" = "Все просроченные задачи"; 
+
+/* Class = "NSMenuItem"; title = "New Event Invitations"; ObjectID = "7cR-I2-oEl"; */
+"7cR-I2-oEl.title" = "Новые приглашения на события"; 
+
+/* Class = "NSMenuItem"; title = "New Event Invitations"; ObjectID = "87Q-yv-KZv"; */
+"87Q-yv-KZv.title" = "Новые приглашения на события"; 
+
+/* Class = "NSMenuItem"; title = "All Overdue Tasks"; ObjectID = "267-6F-vgW"; */
+"267-6F-vgW.title" = "Все просроченные задачи"; 
+
+/* Class = "NSTabViewItem"; label = "Dark Mode"; ObjectID = "gaM-8b-xBR"; */
+"gaM-8b-xBR.label" = "Тёмный режим"; 
+
+/* Class = "NSTabViewItem"; label = "Light Mode (Active)"; ObjectID = "Gci-Ex-19f"; */
+"Gci-Ex-19f.label" = "Светлый режим (активен)"; 
+
+/* Class = "NSButtonCell"; title = "Hide Fantastical in menu bar"; ObjectID = "GIZ-E7-4lM"; */
+"GIZ-E7-4lM.title" = "Скрывать Fantastical в строке меню"; 
+
+/* Class = "NSButtonCell"; title = "Use color menu bar icon"; ObjectID = "IrV-fH-gjB"; */
+"IrV-fH-gjB.title" = "Использовать цветной значок в строке меню"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "menu bar icon shows"; ObjectID = "iz6-cy-HID"; */
+"iz6-cy-HID.ibExternalAccessibilityDescription" = "значок в строке меню показывает"; 
+
+/* Class = "NSMenuItem"; title = "Date & Weekday"; ObjectID = "JgB-VN-bmz"; */
+"JgB-VN-bmz.title" = "Дата и день недели"; 
+
+/* Class = "NSMenuItem"; title = "Today's Remaining Events"; ObjectID = "KDa-hR-CvI"; */
+"KDa-hR-CvI.title" = "Оставшиеся на сегодня события"; 
+
+/* Class = "NSMenuItem"; title = "Date"; ObjectID = "KmV-Ai-3eS"; */
+"KmV-Ai-3eS.title" = "Дата"; 
+
+/* Class = "NSButtonCell"; title = "Show upcoming item in menu bar"; ObjectID = "LhH-Nx-ZYz"; */
+"LhH-Nx-ZYz.title" = "Показывать ближайшее событие в строке меню"; 
+
+/* Class = "NSTextFieldCell"; title = "Dock Icon"; ObjectID = "LmO-sZ-XDf"; */
+"LmO-sZ-XDf.title" = "Значок в Dock"; 
+
+/* Class = "NSMenuItem"; title = "Today's Due Tasks"; ObjectID = "nvm-kO-b2P"; */
+"nvm-kO-b2P.title" = "Задачи, срок которых сегодня"; 
+
+/* Class = "NSTextFieldCell"; title = "App icon badge shows:"; ObjectID = "oaW-ZI-jdf"; */
+"oaW-ZI-jdf.title" = "Значок на иконке приложения показывает:"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "use color menu bar icon"; ObjectID = "OrZ-Lx-x7G"; */
+"OrZ-Lx-x7G.ibExternalAccessibilityDescription" = "использовать цветной значок в строке меню"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "show a color icon in the menu bar"; ObjectID = "OrZ-Lx-x7G"; */
+"OrZ-Lx-x7G.ibExternalAccessibilityHelp" = "показывать цветной значок в строке меню"; 
+
+/* Class = "NSTextFieldCell"; title = "Menu bar icon shows:"; ObjectID = "qB1-7Q-qVg"; */
+"qB1-7Q-qVg.title" = "Значок в строке меню показывает:"; 
+
+/* Class = "NSMenuItem"; title = "Today's Remaining Items"; ObjectID = "RhL-Aj-jpR"; */
+"RhL-Aj-jpR.title" = "Оставшиеся на сегодня дела"; 
+
+/* Class = "NSMenuItem"; title = "Nothing"; ObjectID = "Rkw-3n-7CH"; */
+"Rkw-3n-7CH.title" = "Ничего"; 
+
+/* Class = "NSMenuItem"; title = "Today's Due Tasks"; ObjectID = "S1h-Kf-gjg"; */
+"S1h-Kf-gjg.title" = "Задачи, срок которых сегодня"; 
+
+/* Class = "NSButtonCell"; title = "Automatically adjust app icon to system theme"; ObjectID = "s2k-Qs-N0O"; */
+"s2k-Qs-N0O.title" = "Автоматически подстраивать иконку приложения под тему системы"; 
+
+/* Class = "NSMenuItem"; title = "All Incomplete Tasks"; ObjectID = "t1v-y7-RjC"; */
+"t1v-y7-RjC.title" = "Все незавершённые задачи"; 
+
+/* Class = "NSMenuItem"; title = "All Incomplete Tasks"; ObjectID = "Vcr-J8-R0z"; */
+"Vcr-J8-R0z.title" = "Все незавершённые задачи"; 
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "wEd-0w-e70"; */
+"wEd-0w-e70.title" = "Тёмная"; 
+
+/* Class = "NSButtonCell"; title = "Hide date on app icon"; ObjectID = "wg4-IJ-DMQ"; */
+"wg4-IJ-DMQ.title" = "Скрывать дату на иконке приложения"; 
+
+/* Class = "NSMenuItem"; title = "Today's Remaining Events"; ObjectID = "WIl-8o-oJC"; */
+"WIl-8o-oJC.title" = "Оставшиеся на сегодня события"; 
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "wNe-eI-ayW"; */
+"wNe-eI-ayW.title" = "Светлая"; 
+
+/* Class = "NSMenuItem"; title = "Nothing"; ObjectID = "wNk-ew-QDq"; */
+"wNk-ew-QDq.title" = "Ничего"; 
+
+/* Class = "NSMenuItem"; title = "Date & Month"; ObjectID = "WzO-40-6ub"; */
+"WzO-40-6ub.title" = "Дата и месяц"; 
+
+/* Class = "NSMenuItem"; title = "Current Calendar Week"; ObjectID = "Xgg-yg-NRV"; */
+"Xgg-yg-NRV.title" = "Текущая календарная неделя"; 
+
+/* Class = "NSButtonCell"; title = "Show remaining time for current item"; ObjectID = "XTo-SQ-ujX"; */
+"XTo-SQ-ujX.title" = "Показывать оставшееся время текущего события"; 
+
+/* Class = "NSMenuItem"; title = "Current Calendar Week"; ObjectID = "YCx-C0-6xP"; */
+"YCx-C0-6xP.title" = "Текущая календарная неделя"; 
+
+/* Class = "NSButtonCell"; title = "Show upcoming conference call icon in menu bar"; ObjectID = "ZwO-P6-mSc"; */
+"ZwO-P6-mSc.title" = "Показывать значок предстоящего конференц-звонка\nв строке меню"; 

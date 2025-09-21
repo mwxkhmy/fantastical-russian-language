@@ -1,0 +1,89 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "0tH-c8-mjj"; */
+"0tH-c8-mjj.placeholderString" = "Обязательно";
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "bWe-bp-x95"; */
+"bWe-bp-x95.title" = "Имя пользователя:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "refresh interval"; ObjectID = "cOJ-D7-V6w"; */
+"cOJ-D7-V6w.ibExternalAccessibilityDescription" = "интервал обновления";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "the calendar will be refreshed automatically at the selected interval"; ObjectID = "cOJ-D7-V6w"; */
+"cOJ-D7-V6w.ibExternalAccessibilityHelp" = "календарь будет автоматически обновляться с выбранным интервалом";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Description"; ObjectID = "D2n-WI-uxS"; */
+"D2n-WI-uxS.placeholderString" = "Описание";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "df9-cj-kmR"; */
+"df9-cj-kmR.ibExternalAccessibilityDescription" = "пароль";
+
+/* Class = "NSTextFieldCell"; title = "Refresh calendars:"; ObjectID = "DgG-ZF-yjV"; */
+"DgG-ZF-yjV.title" = "Обновлять календари:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "EfA-gi-4zt"; */
+"EfA-gi-4zt.title" = "Пароль:";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "eLs-de-Zkn"; */
+"eLs-de-Zkn.title" = "Описание:";
+
+/* Class = "NSTextFieldCell"; title = "Server:"; ObjectID = "EUU-rw-8Rh"; */
+"EUU-rw-8Rh.title" = "Сервер:";
+
+/* Class = "NSMenuItem"; title = "Every 15 minutes"; ObjectID = "fKu-iV-Qyu"; */
+"fKu-iV-Qyu.title" = "Каждые 15 минут";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "Fs3-mA-64K"; */
+"Fs3-mA-64K.placeholderString" = "Обязательно";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "Hvp-AD-elQ"; */
+"Hvp-AD-elQ.title" = "Вручную";
+
+/* Class = "NSButtonCell"; title = "Require SSL"; ObjectID = "jN1-QV-1Xx"; */
+"jN1-QV-1Xx.title" = "Требовать SSL";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "KSg-sE-XKN"; */
+"KSg-sE-XKN.title" = "Каждые 5 минут";
+
+/* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "lee-If-E6d"; */
+"lee-If-E6d.title" = "Путь:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "server port"; ObjectID = "Lmx-eS-Lwr"; */
+"Lmx-eS-Lwr.ibExternalAccessibilityDescription" = "порт сервера";
+
+/* Class = "NSMenuItem"; title = "Every hour"; ObjectID = "OJD-pX-MfN"; */
+"OJD-pX-MfN.title" = "Каждый час";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "pif-pQ-HJ4"; */
+"pif-pQ-HJ4.ibExternalAccessibilityDescription" = "имя пользователя";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "description"; ObjectID = "pR1-va-GRp"; */
+"pR1-va-GRp.ibExternalAccessibilityDescription" = "описание";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "enable account"; ObjectID = "scU-4E-0sW"; */
+"scU-4E-0sW.ibExternalAccessibilityDescription" = "включить учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to enable this account"; ObjectID = "scU-4E-0sW"; */
+"scU-4E-0sW.ibExternalAccessibilityHelp" = "включите, чтобы активировать эту учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "require ssl"; ObjectID = "Ska-kA-852"; */
+"Ska-kA-852.ibExternalAccessibilityDescription" = "требовать ssl";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable if the server requires ssl for communication"; ObjectID = "Ska-kA-852"; */
+"Ska-kA-852.ibExternalAccessibilityHelp" = "включите, если сервер требует SSL для связи";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enable if the server requires SSL for communication"; ObjectID = "Ska-kA-852"; */
+"Ska-kA-852.ibShadowedToolTip" = "Включите, если сервер требует SSL для связи";
+
+/* Class = "NSMenuItem"; title = "Every 30 minutes"; ObjectID = "tHM-Zj-W5I"; */
+"tHM-Zj-W5I.title" = "Каждые 30 минут";
+
+/* Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "TyW-29-YNc"; */
+"TyW-29-YNc.title" = "Включить эту учётную запись";
+
+/* Class = "NSButtonCell"; title = "Manage Delegates…"; ObjectID = "VNE-kq-BGc"; */
+"VNE-kq-BGc.title" = "Управлять делегатами…";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Auto"; ObjectID = "w94-7c-8l8"; */
+"w94-7c-8l8.placeholderString" = "Авто";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "WGn-mL-ZDB"; */
+"WGn-mL-ZDB.title" = "Порт:";

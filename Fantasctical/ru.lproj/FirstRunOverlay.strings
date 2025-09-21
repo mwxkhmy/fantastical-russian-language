@@ -1,0 +1,14 @@
+/* Class = "NSTextFieldCell"; title = "Use plain English to enter your events."; ObjectID = "31"; */
+"31.title" = "Введите событие простым языком — как в обычной речи.";
+
+/* Class = "NSButtonCell"; title = "Let’s Go!"; ObjectID = "35"; */
+"35.title" = "Поехали!";
+
+/* Class = "NSTextFieldCell"; title = "To open Fantastical’s mini window, click the menu bar icon or press control-option-space."; ObjectID = "39"; */
+"39.title" = "Чтобы открыть мини-окно Fantastical, щёлкните по значку в строке меню или нажмите Control+Option+Пробел.";
+
+/* Class = "NSTextFieldCell"; title = "Welcome to"; ObjectID = "44"; */
+"44.title" = "Добро пожаловать в";
+
+/* Class = "NSTextFieldCell"; title = "Lunch with John at 1"; ObjectID = "arP-gU-LP5"; */
+"arP-gU-LP5.title" = "Ужин с Антоном в 19:00";

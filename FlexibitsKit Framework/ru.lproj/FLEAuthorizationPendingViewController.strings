@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "OFP-4r-0HH"; */
+"OFP-4r-0HH.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Waiting for Google account authorization…"; ObjectID = "OwR-gU-IbX"; */
+"OwR-gU-IbX.title" = "Ожидание авторизации учётной записи Google…";
+
+/* Class = "NSTextFieldCell"; title = "Finish signing in with your web browser"; ObjectID = "YXJ-WZ-u1x"; */
+"YXJ-WZ-u1x.title" = "Завершите вход в браузере";

@@ -1,0 +1,11 @@
+/* Class = "NSTextFieldCell"; title = "Tasks:"; ObjectID = "7SO-YO-AAU"; */
+"7SO-YO-AAU.title" = "Задачи:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "calendar"; ObjectID = "jwA-fW-XVT"; */
+"jwA-fW-XVT.ibExternalAccessibilityDescription" = "календарь";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select the calendar the events should be added to"; ObjectID = "jwA-fW-XVT"; */
+"jwA-fW-XVT.ibExternalAccessibilityHelp" = "выберите календарь, в который следует добавлять события";
+
+/* Class = "NSTextFieldCell"; title = "Events:"; ObjectID = "tn3-vg-7qL"; */
+"tn3-vg-7qL.title" = "События:";

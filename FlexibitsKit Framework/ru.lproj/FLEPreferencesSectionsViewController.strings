@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "Create Account…"; ObjectID = "AOF-qD-GJB"; */
+"AOF-qD-GJB.title" = "Создать учётную запись…";
+
+/* Class = "NSButtonCell"; title = "Manage Account"; ObjectID = "cUj-6J-m6U"; */
+"cUj-6J-m6U.title" = "Управление учётной записью";
+
+/* Class = "NSButtonCell"; title = "Sign In…"; ObjectID = "GS0-sH-dMk"; */
+"GS0-sH-dMk.title" = "Войти…";

@@ -1,0 +1,47 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "refresh interval"; ObjectID = "1vi-3S-wrz"; */
+"1vi-3S-wrz.ibExternalAccessibilityDescription" = "интервал обновления";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "the calendar will be refreshed automatically at the selected interval"; ObjectID = "1vi-3S-wrz"; */
+"1vi-3S-wrz.ibExternalAccessibilityHelp" = "календарь будет автоматически обновляться с выбранным интервалом";
+
+/* Class = "NSTextFieldCell"; title = "Refresh calendars:"; ObjectID = "4zD-NK-1Fd"; */
+"4zD-NK-1Fd.title" = "Обновлять календари:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Description"; ObjectID = "eoI-tr-74E"; */
+"eoI-tr-74E.placeholderString" = "Описание";
+
+/* Class = "NSMenuItem"; title = "Every 30 minutes"; ObjectID = "GC0-gD-nfC"; */
+"GC0-gD-nfC.title" = "Каждые 30 минут";
+
+/* Class = "NSButtonCell"; title = "Change App-Specific Password…"; ObjectID = "GJM-Ig-YEd"; */
+"GJM-Ig-YEd.title" = "Изменить пароль для приложения…";
+
+/* Class = "NSTextFieldCell"; title = "Apple Account:"; ObjectID = "gZW-go-04u"; */
+"gZW-go-04u.title" = "Учётная запись Apple:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "description"; ObjectID = "hDl-P5-sn1"; */
+"hDl-P5-sn1.ibExternalAccessibilityDescription" = "описание";
+
+/* Class = "NSMenuItem"; title = "Every 15 minutes"; ObjectID = "QOk-BP-6wJ"; */
+"QOk-BP-6wJ.title" = "Каждые 15 минут";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "enable account"; ObjectID = "QTS-QP-n7c"; */
+"QTS-QP-n7c.ibExternalAccessibilityDescription" = "включить учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to enable this account"; ObjectID = "QTS-QP-n7c"; */
+"QTS-QP-n7c.ibExternalAccessibilityHelp" = "включите, чтобы активировать эту учётную запись";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "ri2-J5-sJg"; */
+"ri2-J5-sJg.title" = "Каждые 5 минут";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "xGN-Qt-J8A"; */
+"xGN-Qt-J8A.title" = "Вручную";
+
+/* Class = "NSMenuItem"; title = "Every hour"; ObjectID = "xGr-Zx-gpg"; */
+"xGr-Zx-gpg.title" = "Каждый час";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "YtU-vh-SGk"; */
+"YtU-vh-SGk.title" = "Описание:";
+
+/* Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "z8h-PY-oM2"; */
+"z8h-PY-oM2.title" = "Включить эту учётную запись";

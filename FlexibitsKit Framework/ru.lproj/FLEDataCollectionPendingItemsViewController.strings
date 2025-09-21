@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "All sentences will be sent after clicking Done."; ObjectID = "dZU-iC-Vbv"; */
+"dZU-iC-Vbv.title" = "Все предложения будут отправлены после нажатия «Готово».";
+
+/* Class = "NSButtonCell"; title = "Done"; ObjectID = "iIb-Fk-eNw"; */
+"iIb-Fk-eNw.title" = "Готово";
+
+/* Class = "NSTableColumn"; headerCell.title = "Sentence"; ObjectID = "mjp-D7-2jH"; */
+"mjp-D7-2jH.headerCell.title" = "Предложение";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "MMH-OB-SIQ"; */
+"MMH-OB-SIQ.title" = "Удалить";
+
+/* Class = "NSTextFieldCell"; title = "You entered the following sentences but they have not yet been sent to Flexibits. They will be sent to Flexibits after the waiting period.\n\nIf you delete a sentence before the waiting period then it will not be sent."; ObjectID = "ULB-c6-ddE"; */
+"ULB-c6-ddE.title" = "Вы ввели следующие предложения, но они ещё не отправлены в Flexibits. Они будут отправлены после истечения периода ожидания.\n\nЕсли вы удалите предложение до истечения этого периода, оно не будет отправлено.";
+
+/* Class = "NSTableColumn"; headerCell.title = "Will Be Submitted On"; ObjectID = "xHa-CB-uoz"; */
+"xHa-CB-uoz.headerCell.title" = "Будет отправлено";

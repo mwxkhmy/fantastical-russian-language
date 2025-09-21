@@ -1,0 +1,8 @@
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "cMF-ID-SqO"; */
+"cMF-ID-SqO.title" = "Другое…";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "year view"; ObjectID = "EOw-jR-I7a"; */
+"EOw-jR-I7a.ibExternalAccessibilityDescription" = "вид года";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "gaP-9n-gCC"; */
+"gaP-9n-gCC.title" = "Очистить меню";

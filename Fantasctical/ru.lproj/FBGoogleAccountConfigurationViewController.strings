@@ -1,0 +1,71 @@
+/* Class = "NSTextFieldCell"; title = "Refresh calendars:"; ObjectID = "3GK-l6-0qZ"; */
+"3GK-l6-0qZ.title" = "Обновлять календари:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Description"; ObjectID = "5bP-3Y-esp"; */
+"5bP-3Y-esp.placeholderString" = "Описание";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "description"; ObjectID = "5QR-PX-LGp"; */
+"5QR-PX-LGp.ibExternalAccessibilityDescription" = "описание";
+
+/* Class = "NSMenuItem"; title = "Push"; ObjectID = "7GB-Pt-iOl"; */
+"7GB-Pt-iOl.title" = "Push";
+
+/* Class = "NSMenuItem"; title = "Every 30 minutes"; ObjectID = "9rV-2F-1Df"; */
+"9rV-2F-1Df.title" = "Каждые 30 минут";
+
+/* Class = "NSButtonCell"; title = "Manage Invitee Permissions..."; ObjectID = "628-NW-IzS"; */
+"628-NW-IzS.title" = "Управление правами участников…";
+
+/* Class = "NSButtonCell"; title = "Manage Delegates…"; ObjectID = "ab0-bU-iMg"; */
+"ab0-bU-iMg.title" = "Управлять делегатами…";
+
+/* Class = "NSTextFieldCell"; title = "Account:"; ObjectID = "AiJ-XD-Dg4"; */
+"AiJ-XD-Dg4.title" = "Учётная запись:";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "dxS-Zu-VQ5"; */
+"dxS-Zu-VQ5.title" = "Каждые 5 минут";
+
+/* Class = "NSButtonCell"; title = "Enable Google Integrations"; ObjectID = "en9-W1-3Ih"; */
+"en9-W1-3Ih.title" = "Включить интеграцию с Google";
+
+/* Class = "NSButtonCell"; title = "Show birthdays from Google Contacts"; ObjectID = "Fyt-go-6or"; */
+"Fyt-go-6or.title" = "Показывать дни рождения из Google Контактов";
+
+/* Class = "NSButtonCell"; title = "Add Google Meet to new events"; ObjectID = "hfO-bT-MaQ"; */
+"hfO-bT-MaQ.title" = "Добавлять Google Meet\nк новым событиям";
+
+/* Class = "NSMenuItem"; title = "Every 15 minutes"; ObjectID = "kIu-FL-b1K"; */
+"kIu-FL-b1K.title" = "Каждые 15 минут";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "refresh interval"; ObjectID = "kNh-37-gCf"; */
+"kNh-37-gCf.ibExternalAccessibilityDescription" = "интервал обновления";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "the calendar will be refreshed automatically at the selected interval"; ObjectID = "kNh-37-gCf"; */
+"kNh-37-gCf.ibExternalAccessibilityHelp" = "календарь будет автоматически обновляться с выбранным интервалом";
+
+/* Class = "NSTextFieldCell"; title = "Missing calendars?"; ObjectID = "kTr-bg-xQo"; */
+"kTr-bg-xQo.title" = "Не хватает календарей?";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "enable account"; ObjectID = "Pen-A6-pc7"; */
+"Pen-A6-pc7.ibExternalAccessibilityDescription" = "включить учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to enable this account"; ObjectID = "Pen-A6-pc7"; */
+"Pen-A6-pc7.ibExternalAccessibilityHelp" = "включите, чтобы активировать эту учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "add google meet to new events"; ObjectID = "r8Z-eF-qDK"; */
+"r8Z-eF-qDK.ibExternalAccessibilityDescription" = "добавлять Google Meet к новым событиям";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to have fantastical automatically add a google meet conference call when creating new events"; ObjectID = "r8Z-eF-qDK"; */
+"r8Z-eF-qDK.ibExternalAccessibilityHelp" = "включите, чтобы Fantastical автоматически добавлял видеоконференцию Google Meet при создании новых событий";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "rYs-hv-QaG"; */
+"rYs-hv-QaG.title" = "Вручную";
+
+/* Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "vbV-ia-WJ9"; */
+"vbV-ia-WJ9.title" = "Включить эту учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "VdO-Vw-ijO"; */
+"VdO-Vw-ijO.title" = "Описание:";
+
+/* Class = "NSMenuItem"; title = "Every hour"; ObjectID = "Zxy-Na-dSi"; */
+"Zxy-Na-dSi.title" = "Каждый час";

@@ -1,0 +1,18 @@
+/* mwxkhmy */
+/* Class = "NSButtonCell"; title = "Share with Flexibits"; ObjectID = "1wk-m2-5Bv"; */
+"1wk-m2-5Bv.title" = "Поделиться с Flexibits";
+
+/* Class = "NSTextFieldCell"; title = "This data does not contain any calendar, contact, or other personal information and is never shared or sold."; ObjectID = "9ka-mK-spH"; */
+"9ka-mK-spH.title" = "Эти данные не содержат информацию из календарей, контактов или другую личную информацию и никогда не передаются третьим лицам и не продаются.";
+
+/* Class = "NSWindow"; title = "Help Us Improve Fantastical"; ObjectID = "Bif-SL-5bZ"; */
+"Bif-SL-5bZ.title" = "Помогите нам улучшить Fantastical";
+
+/* Class = "NSTextFieldCell"; title = "Help Improve Fantastical"; ObjectID = "D1W-Tq-92e"; */
+"D1W-Tq-92e.title" = "Помогите улучшить Fantastical";
+
+/* Class = "NSButtonCell"; title = "Don’t Share"; ObjectID = "ovY-XK-WmA"; */
+"ovY-XK-WmA.title" = "Не делиться";
+
+/* Class = "NSTextFieldCell"; title = "Will you help us improve Fantastical by allowing it to periodically send analytics?\n\nWe believe in transparency and asking for permission up front, and sending this data helps us make better apps. You can see the data being sent in the Flexibits Account settings. You can change this setting at any time."; ObjectID = "PQd-2B-k80"; */
+"PQd-2B-k80.title" = "Поможете ли вы нам улучшить Fantastical, разрешив периодическую отправку аналитических данных?\n\nМы ценим прозрачность и всегда запрашиваем разрешение заранее. Эти данные помогают нам создавать лучшие приложения. Вы можете просмотреть, какие данные отправляются, в настройках учётной записи Flexibits. Настройку можно изменить в любое время.";

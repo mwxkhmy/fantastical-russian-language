@@ -1,0 +1,29 @@
+/* Class = "NSButtonCell"; title = "Edit"; ObjectID = "0zb-WD-adE"; */
+"0zb-WD-adE.title" = "Редактировать";
+
+/* Class = "NSTextFieldCell"; title = "Please add your accounts"; ObjectID = "5Bg-9a-uvd"; */
+"5Bg-9a-uvd.title" = "Добавьте свои учётные записи";
+
+/* Class = "NSButtonCell"; title = "Meeting Templates…"; ObjectID = "5Cz-4g-aq4"; */
+"5Cz-4g-aq4.title" = "Шаблоны встреч…";
+
+/* Class = "NSTextFieldCell"; title = "Choose the calendars that will be used to check your availablity. You can change this at any time."; ObjectID = "8gV-dr-yfV"; */
+"8gV-dr-yfV.title" = "Выберите календари, которые будут использоваться для проверки вашей занятости. Вы можете изменить этот выбор в любое время.";
+
+/* Class = "NSButtonCell"; title = "Enable Openings"; ObjectID = "agL-gI-QUn"; */
+"agL-gI-QUn.title" = "Включить Openings";
+
+/* Class = "NSTextFieldCell"; title = "You don't have any calendar accounts added to Fantastical. Add your accounts to Fantastical to use Openings."; ObjectID = "OAF-4K-ZAb"; */
+"OAF-4K-ZAb.title" = "Вы ещё не добавили в Fantastical ни одной учётной записи календаря. Добавьте их, чтобы использовать функцию Openings.";
+
+/* Class = "NSTextFieldCell"; title = "Openings"; ObjectID = "T7S-PL-kR6"; */
+"T7S-PL-kR6.title" = "Openings";
+
+/* Class = "NSTextFieldCell"; title = "Calendar Set:"; ObjectID = "tf0-2y-f5F"; */
+"tf0-2y-f5F.title" = "Набор календарей:";
+
+/* Class = "NSButtonCell"; title = "Delete Openings Data"; ObjectID = "wJ3-bz-FgH"; */
+"wJ3-bz-FgH.title" = "Удалить данные Openings";
+
+/* Class = "NSButtonCell"; title = "Accounts…"; ObjectID = "xdo-GS-2TU"; */
+"xdo-GS-2TU.title" = "Учётные записи…";

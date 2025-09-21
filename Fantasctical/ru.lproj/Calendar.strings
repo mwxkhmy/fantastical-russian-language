@@ -1,0 +1,219 @@
+/* mwxkhmy */
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default calendar"; ObjectID = "0ou-ik-pH5"; */
+"0ou-ik-pH5.ibExternalAccessibilityDescription" = "календарь по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select which calendar to add events to by default"; ObjectID = "0ou-ik-pH5"; */
+"0ou-ik-pH5.ibExternalAccessibilityHelp" = "выберите, в какой календарь по умолчанию добавлять события";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "ignore alerts"; ObjectID = "1K4-ds-C7B"; */
+"1K4-ds-C7B.ibExternalAccessibilityDescription" = "игнорировать напоминания";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to ignore alerts for this calendar"; ObjectID = "1K4-ds-C7B"; */
+"1K4-ds-C7B.ibExternalAccessibilityHelp" = "включите, чтобы игнорировать напоминания для этого календаря";
+
+/* Class = "NSMenuItem"; title = "Weekdays"; ObjectID = "1mF-H3-MbT"; */
+"1mF-H3-MbT.title" = "Будние дни";
+
+/* Class = "NSMenuItem"; title = "Location"; ObjectID = "4sq-Ty-Vr3"; */
+"4sq-Ty-Vr3.title" = "Местоположение";
+
+/* Class = "NSTextFieldCell"; title = "Repeat:"; ObjectID = "5bT-eD-KNP"; */
+"5bT-eD-KNP.title" = "Повторять:";
+
+/* Class = "NSButtonCell"; title = "Arriving"; ObjectID = "5fN-24-ikN"; */
+"5fN-24-ikN.title" = "По прибытии";
+
+/* Class = "NSMenuItem"; title = "Every 5 minutes"; ObjectID = "5Z5-ar-dOW"; */
+"5Z5-ar-dOW.title" = "Каждые 5 минут";
+
+/* Class = "NSButtonCell"; title = "Leaving"; ObjectID = "6A6-D5-Fk3"; */
+"6A6-D5-Fk3.title" = "При уходе";
+
+/* Class = "NSTextFieldCell"; title = "Default task list:"; ObjectID = "8ID-Ts-0lz"; */
+"8ID-Ts-0lz.title" = "Список задач по умолчанию:";
+
+/* Class = "NSMenuItem"; title = "On My Mac"; ObjectID = "9jZ-Gx-0tN"; */
+"9jZ-Gx-0tN.title" = "На моём Mac";
+
+/* Class = "NSTextFieldCell"; title = "Time:"; ObjectID = "053-0w-wRP"; */
+"053-0w-wRP.title" = "Время:";
+
+/* Class = "NSTextFieldCell"; title = "Refresh:"; ObjectID = "a4l-bl-pfW"; */
+"a4l-bl-pfW.title" = "Обновлять:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "location"; ObjectID = "aqN-MU-pph"; */
+"aqN-MU-pph.ibExternalAccessibilityDescription" = "местоположение";
+
+/* Class = "NSMenuItem"; title = "New Calendar"; ObjectID = "Aue-ov-RIC"; */
+"Aue-ov-RIC.title" = "Новый календарь";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "is location active"; ObjectID = "AyF-Qu-uA8"; */
+"AyF-Qu-uA8.ibExternalAccessibilityDescription" = "местоположение активно";
+
+/* Class = "NSMenuItem"; title = "Every day"; ObjectID = "bqD-FQ-Ip4"; */
+"bqD-FQ-Ip4.title" = "Каждый день";
+
+/* Class = "NSTextFieldCell"; title = "Section"; ObjectID = "CNa-By-v9y"; */
+"CNa-By-v9y.title" = "Раздел";
+
+/* Class = "NSTextFieldCell"; title = "Streetname, ZIP City, Country"; ObjectID = "Ctu-EF-2MV"; */
+"Ctu-EF-2MV.title" = "Улица, индекс, город, страна";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default calendar"; ObjectID = "cVS-1y-hRa"; */
+"cVS-1y-hRa.ibExternalAccessibilityDescription" = "календарь по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select which calendar to add events to by default"; ObjectID = "cVS-1y-hRa"; */
+"cVS-1y-hRa.ibExternalAccessibilityHelp" = "выберите, в какой календарь по умолчанию добавлять события";
+
+/* Class = "NSButtonCell"; title = "Ignore shared calendar notifications"; ObjectID = "DL1-aV-S3k"; */
+"DL1-aV-S3k.title" = "Игнорировать уведомления общих календарей";
+
+/* Class = "NSMenuItem"; title = "Weekends"; ObjectID = "dWD-sc-zcS"; */
+"dWD-sc-zcS.title" = "Выходные";
+
+/* Class = "NSTextFieldCell"; title = "Calendar URL:"; ObjectID = "e4L-zG-gkj"; */
+"e4L-zG-gkj.title" = "URL календаря:";
+
+/* Class = "NSTextFieldCell"; title = "Enter the URL of the calendar you want to subscribe to."; ObjectID = "ebS-ZA-hDe"; */
+"ebS-ZA-hDe.title" = "Введите URL календаря, на который вы хотите подписаться.";
+
+/* Class = "NSButtonCell"; title = "Ignore alerts"; ObjectID = "Ehq-yW-s4p"; */
+"Ehq-yW-s4p.title" = "Игнорировать напоминания";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "remove calendar set"; ObjectID = "fn1-w6-iTr"; */
+"fn1-w6-iTr.ibExternalAccessibilityDescription" = "удалить набор календарей";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "add calendar set"; ObjectID = "FOj-Eh-z3i"; */
+"FOj-Eh-z3i.ibExternalAccessibilityDescription" = "добавить набор календарей";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "location"; ObjectID = "Fre-DS-MgB"; */
+"Fre-DS-MgB.ibExternalAccessibilityDescription" = "местоположение";
+
+/* Class = "NSButtonCell"; title = "Assume writable"; ObjectID = "g1v-q8-R8Z"; Note = "Hidden option so users can mark a calendar as allowing changes to it (sometimes the server sends the wrong information and this allows overriding it)"; */
+"g1v-q8-R8Z.title" = "Считать доступным для записи";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "activated when leaving"; ObjectID = "gBi-mI-D6O"; */
+"gBi-mI-D6O.ibExternalAccessibilityDescription" = "активируется при уходе";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "url"; ObjectID = "gHS-50-PFy"; */
+"gHS-50-PFy.ibExternalAccessibilityDescription" = "url";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "remove calendar"; ObjectID = "GUM-YQ-GFF"; */
+"GUM-YQ-GFF.ibExternalAccessibilityDescription" = "удалить календарь";
+
+/* Class = "NSTextFieldCell"; title = "Quickly change the calendars and task lists that are shown by creating multiple calendar sets. For example, you might have separate calendar sets for home and work."; ObjectID = "Gyh-Xj-Ojn"; */
+"Gyh-Xj-Ojn.title" = "Быстро переключайте отображаемые календари и списки задач, создавая несколько наборов календарей. Например, вы можете иметь отдельные наборы для дома и работы.";
+
+/* Class = "NSTextFieldCell"; title = "Location:"; ObjectID = "Jgn-p5-i1x"; */
+"Jgn-p5-i1x.title" = "Местоположение:";
+
+/* Class = "NSMenuItem"; title = "Add Interesting Calendars…"; ObjectID = "jHu-uE-igc"; */
+"jHu-uE-igc.title" = "Добавить интересные календари…";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "jLS-5j-a63"; */
+"jLS-5j-a63.title" = "Никогда";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "activated when arriving"; ObjectID = "KPR-NI-tnC"; */
+"KPR-NI-tnC.ibExternalAccessibilityDescription" = "активируется по прибытии";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "has conflict"; ObjectID = "Kyi-CJ-jcA"; */
+"Kyi-CJ-jcA.ibExternalAccessibilityDescription" = "есть конфликт";
+
+/* Class = "NSMenuItem"; title = "Custom…"; ObjectID = "lFV-aV-dE6"; */
+"lFV-aV-dE6.title" = "Своё…";
+
+/* Class = "NSMenuItem"; title = "Every hour"; ObjectID = "lqI-ro-aCo"; */
+"lqI-ro-aCo.title" = "Каждый час";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Lt3-Ov-p29"; */
+"Lt3-Ov-p29.title" = "Отмена";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "color"; ObjectID = "n4X-9r-DBB"; */
+"n4X-9r-DBB.ibExternalAccessibilityDescription" = "цвет";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select the color for the calendar"; ObjectID = "n4X-9r-DBB"; */
+"n4X-9r-DBB.ibExternalAccessibilityHelp" = "выберите цвет для календаря";
+
+/* Class = "NSTextFieldCell"; title = "Calendar Set Name"; ObjectID = "nGD-eS-Nqy"; */
+"nGD-eS-Nqy.title" = "Название набора календарей";
+
+/* Class = "NSButtonCell"; title = "Subscribe"; ObjectID = "ofC-96-dma"; */
+"ofC-96-dma.title" = "Подписаться";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "ignore shared calendar notifications"; ObjectID = "orf-xK-MHl"; */
+"orf-xK-MHl.ibExternalAccessibilityDescription" = "игнорировать уведомления общих календарей";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to ignore shared calendar notifications for this calendar"; ObjectID = "orf-xK-MHl"; */
+"orf-xK-MHl.ibExternalAccessibilityHelp" = "включите, чтобы игнорировать уведомления общих календарей для этого календаря";
+
+/* Class = "NSMenuItem"; title = "Every Day"; ObjectID = "OUp-Q7-992"; */
+"OUp-Q7-992.title" = "Каждый день";
+
+/* Class = "NSMenuItem"; title = "New Task List"; ObjectID = "pgE-Xf-kdg"; */
+"pgE-Xf-kdg.title" = "Новый список задач";
+
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "PHB-U2-qQ8"; */
+"PHB-U2-qQ8.title" = "Выкл.";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "url"; ObjectID = "Q7L-0V-t7F"; */
+"Q7L-0V-t7F.ibExternalAccessibilityDescription" = "url";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "remove calendar"; ObjectID = "QGK-uP-wZg"; */
+"QGK-uP-wZg.ibExternalAccessibilityDescription" = "удалить календарь";
+
+/* Class = "NSTextFieldCell"; title = "Calendar Sets"; ObjectID = "qHB-cK-Jwt"; */
+"qHB-cK-Jwt.title" = "Наборы календарей";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default calendar"; ObjectID = "QKr-LJ-jdj"; */
+"QKr-LJ-jdj.ibExternalAccessibilityDescription" = "календарь по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select which calendar to add events to by default"; ObjectID = "QKr-LJ-jdj"; */
+"QKr-LJ-jdj.ibExternalAccessibilityHelp" = "выберите, в какой календарь по умолчанию добавлять события";
+
+/* Class = "NSMenuItem"; title = "New Calendar Subscription…"; ObjectID = "qT3-QZ-hL3"; */
+"qT3-QZ-hL3.title" = "Новая подписка на календарь…";
+
+/* Class = "NSTextFieldCell"; title = "Automatically activate at:"; ObjectID = "rdU-mJ-yGb"; */
+"rdU-mJ-yGb.title" = "Автоматически активировать в:";
+
+/* Class = "NSMenuItem"; title = "Every week"; ObjectID = "rHN-d1-ChF"; */
+"rHN-d1-ChF.title" = "Каждую неделю";
+
+/* Class = "NSTextFieldCell"; title = "URL:"; ObjectID = "S1J-UN-xRP"; */
+"S1J-UN-xRP.title" = "URL:";
+
+/* Class = "NSMenuItem"; title = "Time"; ObjectID = "SLP-lC-B9T"; */
+"SLP-lC-B9T.title" = "Время";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "name"; ObjectID = "SWN-ON-AUg"; */
+"SWN-ON-AUg.ibExternalAccessibilityDescription" = "имя";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "is enabled"; ObjectID = "Tpa-3l-lya"; */
+"Tpa-3l-lya.ibExternalAccessibilityDescription" = "включено";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "u84-cb-Xrv"; */
+"u84-cb-Xrv.title" = "Имя:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "Usv-Zo-bHI"; */
+"Usv-Zo-bHI.title" = "OK";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "default calendar"; ObjectID = "VmL-sX-90E"; */
+"VmL-sX-90E.ibExternalAccessibilityDescription" = "календарь по умолчанию";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select which calendar to add events to by default"; ObjectID = "VmL-sX-90E"; */
+"VmL-sX-90E.ibExternalAccessibilityHelp" = "выберите, в какой календарь по умолчанию добавлять события";
+
+/* Class = "NSTextFieldCell"; title = "Default calendar:"; ObjectID = "VVd-Xy-74T"; */
+"VVd-Xy-74T.title" = "Календарь по умолчанию:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "vZU-js-Qgu"; */
+"vZU-js-Qgu.title" = "Отмена";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "add calendar"; ObjectID = "xCK-Bb-RAv"; */
+"xCK-Bb-RAv.ibExternalAccessibilityDescription" = "добавить календарь";
+
+/* Class = "NSMenuItem"; title = "Every 15 minutes"; ObjectID = "z4V-Ut-ejr"; */
+"z4V-Ut-ejr.title" = "Каждые 15 минут";
+
+/* Class = "NSComboBoxCell"; title = "Add Location"; ObjectID = "zja-xc-Az8"; */
+"zja-xc-Az8.title" = "Добавить местоположение";

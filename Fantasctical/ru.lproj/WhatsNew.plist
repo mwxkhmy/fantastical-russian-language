@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>message</key>
+	<string>Что нового в Fantastical</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>build</key>
+			<string>0</string>
+			<key>image</key>
+			<string>sf-lock.circle.fill</string>
+			<key>color</key>
+			<string>#735acc</string>
+			<key>title</key>
+			<string>Passkey для учётной записи Flexibits</string>
+			<key>description</key>
+			<string>Теперь вы можете входить в свою учётную запись Flexibits с помощью passkey.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>1854</string>
+			<key>image</key>
+			<string>whatsnew-rsvp</string>
+			<key>title</key>
+			<string>RSVP</string>
+			<key>description</key>
+			<string>Ссылка для приглашения на мероприятие с настраиваемыми вариантами ответов и контролем доступности.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>1854</string>
+			<key>image</key>
+			<string>whatsnew-openings</string>
+			<key>title</key>
+			<string>Улучшенные Openings</string>
+			<key>description</key>
+			<string>Теперь у Openings есть публичная страница, где участники могут выбирать из нескольких шаблонов встреч при бронировании.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>1854</string>
+			<key>image</key>
+			<string>whatsnew-taskgroups</string>
+			<key>title</key>
+			<string>Списки задач</string>
+			<key>description</key>
+			<string>Теперь вы можете группировать задачи по спискам, чтобы быстро просматривать и выполнять задачи по каждому аккаунту.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>1854</string>
+			<key>image</key>
+			<string>whatsnew-todoist</string>
+			<key>title</key>
+			<string>Длительность для Todoist</string>
+			<key>description</key>
+			<string>Пользователи Todoist Pro теперь могут видеть длительность задач прямо в Fantastical.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>1854</string>
+			<key>image</key>
+			<string>whatsnew-diagnostics</string>
+			<key>title</key>
+			<string>Диагностика и устранение неполадок</string>
+			<key>description</key>
+			<string>Центральное место для поиска проблем — легко выявляйте ошибки конфигурации и сбои служб.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2026</string>
+			<key>image</key>
+			<string>whatsnew-windows</string>
+			<key>title</key>
+			<string>Fantastical для Windows</string>
+			<key>description</key>
+			<string>Fantastical, который вы знаете и любите, теперь доступен для Windows. Скачайте его на flexibits.com или в Microsoft Store!</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2066</string>
+			<key>image</key>
+			<string>sf-macwindow.badge.plus</string>
+			<key>color</key>
+			<string>#5ad587</string>
+			<key>title</key>
+			<string>Несколько окон!</string>
+			<key>description</key>
+			<string>Вы можете одновременно просматривать календарь в разных видах или на разные дни. Откройте новые окна через меню «Файл» → «Новое окно».</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2132</string>
+			<key>image</key>
+			<string>LLM-Icon</string>
+			<key>title</key>
+			<string>Пересылайте письма в Fantastical</string>
+			<key>description</key>
+			<string>Пересылайте письма с email-адреса, привязанного к вашей учётной записи Flexibits, на email@fantastical.app — и Fantastical волшебным образом создаст события.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2132</string>
+			<key>image</key>
+			<string>sf-photo.circle.fill</string>
+			<key>color</key>
+			<string>#ffb343</string>
+			<key>title</key>
+			<string>Фото пользователя для бронирования</string>
+			<key>description</key>
+			<string>Загрузите своё фото в настройках учётной записи Flexibits — оно будет отображаться в Openings, предложениях встреч и RSVP.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2132</string>
+			<key>image</key>
+			<string>sf-questionmark.bubble.fill</string>
+			<key>color</key>
+			<string>#2694f3</string>
+			<key>title</key>
+			<string>Вопросы для Openings</string>
+			<key>description</key>
+			<string>Добавьте вопросы к ссылкам Openings — участники смогут отвечать на них при запросе встречи.</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2175</string>
+			<key>image</key>
+			<string>whatsnew-liquidglass</string>
+			<key>color</key>
+			<string>#2694f3</string>
+			<key>title</key>
+			<string>Liquid Glass</string>
+			<key>description</key>
+			<string>Fantastical получил обновлённый красивый дизайн Liquid Glass на всех устройствах с iOS 26 и macOS 26!</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2175</string>
+			<key>image</key>
+			<string>sf-apple.intelligence</string>
+			<key>title</key>
+			<string>Парсер с поддержкой Apple Intelligence</string>
+			<key>description</key>
+			<string>Парсер естественного языка в Fantastical теперь использует Apple Intelligence для распознавания событий и задач из сложных фраз (требуется Apple Intelligence и macOS 26).</string>
+		</dict>
+		<dict>
+			<key>build</key>
+			<string>2175</string>
+			<key>image</key>
+			<string>sf-checklist</string>
+			<key>color</key>
+			<string>#ffb343</string>
+			<key>title</key>
+			<string>Быстрое включение и скрытие календарей</string>
+			<key>description</key>
+			<string>Щёлкните правой кнопкой мыши по меню наборов календарей, чтобы быстро включать или скрывать календари.</string>
+		</dict>
+	</array>
+</dict>
+</plist>

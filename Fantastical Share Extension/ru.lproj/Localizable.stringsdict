@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%1$ld conflicts from %2$@ to %3$@</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_conflicts@ с %2$@ по %3$@</string>
+		<key>x_conflicts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 конфликт</string>
+			<key>other</key>
+			<string>%1$ld конфликтов</string>
+			<key>zero</key>
+			<string>Нет конфликтов</string>
+		</dict>
+	</dict>
+	<key>%1$ld hours, %2$ld min</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@, %#@x_mins@</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%1$ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+		<key>x_mins</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 мин</string>
+			<key>other</key>
+			<string>%2$ld мин</string>
+			<key>zero</key>
+			<string>0 мин</string>
+		</dict>
+	</dict>
+	<key>%1$ld hours, %2$ld minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@, %#@x_minutes@</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%1$ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минута</string>
+			<key>other</key>
+			<string>%2$ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>%1$ld hours, %2$ld minutes after</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@, %#@x_minutes@ после</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%1$ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минута</string>
+			<key>other</key>
+			<string>%2$ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>%1$ld hours, %2$ld minutes before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@, %#@x_minutes@ до</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%1$ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минута</string>
+			<key>other</key>
+			<string>%2$ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>%1$ld items created by %2$@</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_items@ создано %2$@</string>
+		<key>x_items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 элемент</string>
+			<key>other</key>
+			<string>%ld элементов</string>
+			<key>zero</key>
+			<string>0 элементов</string>
+		</dict>
+	</dict>
+	<key>%1$ld items deleted by %2$@</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_items@ удалено %2$@</string>
+		<key>x_items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 элемент</string>
+			<key>other</key>
+			<string>%ld элементов</string>
+			<key>zero</key>
+			<string>0 элементов</string>
+		</dict>
+	</dict>
+	<key>%1$ld items updated by %2$@</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_items@ обновлено %2$@</string>
+		<key>x_items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 элемент</string>
+			<key>other</key>
+			<string>%ld элементов</string>
+			<key>zero</key>
+			<string>0 элементов</string>
+		</dict>
+	</dict>
+	<key>%1g hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>1g</string>
+			<key>one</key>
+			<string>%1g час</string>
+			<key>other</key>
+			<string>%1g часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+	</dict>
+	<key>%@ Copy %lu</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%@ %#@copy@</string>
+		<key>copy</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>Копия</string>
+			<key>other</key>
+			<string>Копия %lu</string>
+			<key>zero</key>
+			<string>Копия</string>
+		</dict>
+	</dict>
+	<key>%@-copy-%lu</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%@-%#@copy@</string>
+		<key>copy</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>копия</string>
+			<key>other</key>
+			<string>копия-%lu</string>
+			<key>zero</key>
+			<string>копия</string>
+		</dict>
+	</dict>
+	<key>%ld Conflicting Events</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_conflicting_events@</string>
+		<key>x_conflicting_events</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>Конфликт с 1 событием</string>
+			<key>other</key>
+			<string>Конфликт с %ld событиями</string>
+			<key>zero</key>
+			<string>Нет конфликтов с событиями</string>
+		</dict>
+	</dict>
+	<key>%ld conflicts</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_conflicts@</string>
+		<key>x_conflicts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 конфликт</string>
+			<key>other</key>
+			<string>%ld конфликтов</string>
+			<key>zero</key>
+			<string>Нет конфликтов</string>
+		</dict>
+	</dict>
+	<key>%ld days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_days@</string>
+		<key>x_days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 день</string>
+			<key>other</key>
+			<string>%ld дней</string>
+			<key>zero</key>
+			<string>0 дней</string>
+		</dict>
+	</dict>
+	<key>%ld days after</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_days@ после</string>
+		<key>x_days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 день</string>
+			<key>other</key>
+			<string>%ld дней</string>
+			<key>zero</key>
+			<string>0 дней</string>
+		</dict>
+	</dict>
+	<key>%ld days before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_days@ до</string>
+		<key>x_days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 день</string>
+			<key>other</key>
+			<string>%ld дней</string>
+			<key>zero</key>
+			<string>0 дней</string>
+		</dict>
+	</dict>
+	<key>%ld days will be printed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_days_will_be_printed@</string>
+		<key>x_days_will_be_printed</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 день будет напечатан</string>
+			<key>other</key>
+			<string>%ld дней будут напечатаны</string>
+			<key>zero</key>
+			<string>0 дней будут напечатаны</string>
+		</dict>
+	</dict>
+	<key>%ld guests</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_guests@</string>
+		<key>x_guests</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 гость</string>
+			<key>other</key>
+			<string>%ld гостей</string>
+			<key>zero</key>
+			<string>Нет гостей</string>
+		</dict>
+	</dict>
+	<key>%ld hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+	</dict>
+	<key>%ld hours after</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@ после</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+	</dict>
+	<key>%ld hours before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_hours@ до</string>
+		<key>x_hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 час</string>
+			<key>other</key>
+			<string>%ld часов</string>
+			<key>zero</key>
+			<string>0 часов</string>
+		</dict>
+	</dict>
+	<key>%ld min</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_mins@</string>
+		<key>x_mins</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 мин</string>
+			<key>other</key>
+			<string>%ld мин</string>
+			<key>zero</key>
+			<string>0 мин</string>
+		</dict>
+	</dict>
+	<key>%ld minutes</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_minutes@</string>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минута</string>
+			<key>other</key>
+			<string>%ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>%ld minutes after</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_minutes@ после</string>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минута</string>
+			<key>other</key>
+			<string>%ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>%ld minutes before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_minutes@ до</string>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минута</string>
+			<key>other</key>
+			<string>%ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>%ld months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_months@</string>
+		<key>x_months</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 месяц</string>
+			<key>other</key>
+			<string>%ld месяцев</string>
+			<key>zero</key>
+			<string>0 месяцев</string>
+		</dict>
+	</dict>
+	<key>%ld months after</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_months@ после</string>
+		<key>x_months</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 месяц</string>
+			<key>other</key>
+			<string>%ld месяцев</string>
+			<key>zero</key>
+			<string>0 месяцев</string>
+		</dict>
+	</dict>
+	<key>%ld months before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_months@ до</string>
+		<key>x_months</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 месяц</string>
+			<key>other</key>
+			<string>%ld месяцев</string>
+			<key>zero</key>
+			<string>0 месяцев</string>
+		</dict>
+	</dict>
+	<key>%ld months will be printed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_months_will_be_printed@</string>
+		<key>x_months_will_be_printed</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 месяц будет напечатан</string>
+			<key>other</key>
+			<string>%ld месяцев будут напечатаны</string>
+			<key>zero</key>
+			<string>0 месяцев будут напечатаны</string>
+		</dict>
+	</dict>
+	<key>%ld weeks</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_weeks@</string>
+		<key>x_weeks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 неделя</string>
+			<key>other</key>
+			<string>%ld недель</string>
+			<key>zero</key>
+			<string>0 недель</string>
+		</dict>
+	</dict>
+	<key>%ld weeks after</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_weeks@ после</string>
+		<key>x_weeks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 неделя</string>
+			<key>other</key>
+			<string>%ld недель</string>
+			<key>zero</key>
+			<string>0 недель</string>
+		</dict>
+	</dict>
+	<key>%ld weeks before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_weeks@ до</string>
+		<key>x_weeks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 неделя</string>
+			<key>other</key>
+			<string>%ld недель</string>
+			<key>zero</key>
+			<string>0 недель</string>
+		</dict>
+	</dict>
+	<key>%ld weeks will be printed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_weeks_will_be_printed@</string>
+		<key>x_weeks_will_be_printed</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 неделя будет напечатана</string>
+			<key>other</key>
+			<string>%ld недель будут напечатаны</string>
+			<key>zero</key>
+			<string>0 недель будут напечатаны</string>
+		</dict>
+	</dict>
+	<key>%ld years will be printed</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_years_will_be_printed@</string>
+		<key>x_years_will_be_printed</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 год будет напечатан</string>
+			<key>other</key>
+			<string>%ld лет будут напечатаны</string>
+			<key>zero</key>
+			<string>0 лет будут напечатаны</string>
+		</dict>
+	</dict>
+	<key>%lu Calendars</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_calendars@</string>
+		<key>x_calendars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 календарь</string>
+			<key>other</key>
+			<string>%lu календарей</string>
+			<key>zero</key>
+			<string>Нет календарей</string>
+		</dict>
+	</dict>
+	<key>%lu calendars from this device will be used to check your availability and sync your open time slots.</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_calendars@</string>
+		<key>x_calendars</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 календарь с этого устройства будет использоваться для проверки вашей доступности и синхронизации ваших свободных временных интервалов.</string>
+			<key>other</key>
+			<string>%lu календарей с этого устройства будут использоваться для проверки вашей доступности и синхронизации ваших свободных временных интервалов.</string>
+			<key>zero</key>
+			<string>В выбранном наборе календарей на этом устройстве нет календарей, которые можно использовать с Openings.</string>
+		</dict>
+	</dict>
+	<key>%lu drafts</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_drafts@</string>
+		<key>x_drafts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 черновик</string>
+			<key>other</key>
+			<string>%lu черновиков</string>
+			<key>zero</key>
+			<string>0 черновиков</string>
+		</dict>
+	</dict>
+	<key>%lu events</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_events@</string>
+		<key>x_events</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 событие</string>
+			<key>other</key>
+			<string>%lu событий</string>
+			<key>zero</key>
+			<string>0 событий</string>
+		</dict>
+	</dict>
+	<key>%lu events remaining today</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_events@</string>
+		<key>x_events</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 предстоящее событие сегодня</string>
+			<key>other</key>
+			<string>%lu предстоящих событий сегодня</string>
+			<key>zero</key>
+			<string>Нет предстоящих событий сегодня</string>
+		</dict>
+	</dict>
+	<key>%lu incomplete reminders</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_reminders@</string>
+		<key>x_reminders</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 невыполненная задача</string>
+			<key>other</key>
+			<string>%lu невыполненных задач</string>
+			<key>zero</key>
+			<string>Нет невыполненных задач</string>
+		</dict>
+	</dict>
+	<key>%lu items remaining today</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_reminders@</string>
+		<key>x_reminders</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 предстоящий элемент сегодня</string>
+			<key>other</key>
+			<string>%lu предстоящих элементов сегодня</string>
+			<key>zero</key>
+			<string>Нет предстоящих элементов сегодня</string>
+		</dict>
+	</dict>
+	<key>%lu more events</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_more_events@</string>
+		<key>x_more_events</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>ещё 1 событие</string>
+			<key>other</key>
+			<string>ещё %lu событий</string>
+			<key>zero</key>
+			<string>ещё 0 событий</string>
+		</dict>
+	</dict>
+	<key>%lu more reminders</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_more_reminders@</string>
+		<key>x_more_reminders</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>ещё 1 задача</string>
+			<key>other</key>
+			<string>ещё %lu задач</string>
+			<key>zero</key>
+			<string>ещё 0 задач</string>
+		</dict>
+	</dict>
+	<key>%lu notifications</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_notifications@</string>
+		<key>x_notifications</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 уведомление</string>
+			<key>other</key>
+			<string>%lu уведомлений</string>
+			<key>zero</key>
+			<string>Нет уведомлений</string>
+		</dict>
+	</dict>
+	<key>%lu overdue reminders</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_reminders@</string>
+		<key>x_reminders</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 просроченная задача</string>
+			<key>other</key>
+			<string>%lu просроченных задач</string>
+			<key>zero</key>
+			<string>Нет просроченных задач</string>
+		</dict>
+	</dict>
+	<key>%lu pending invitations</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_invitations@</string>
+		<key>x_invitations</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 новое приглашение</string>
+			<key>other</key>
+			<string>%lu новых приглашений</string>
+			<key>zero</key>
+			<string>Нет новых приглашений</string>
+		</dict>
+	</dict>
+	<key>%lu tasks</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_tasks@</string>
+		<key>x_tasks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 задача</string>
+			<key>other</key>
+			<string>%lu задач</string>
+			<key>zero</key>
+			<string>0 задач</string>
+		</dict>
+	</dict>
+	<key>%lu tasks due today</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_tasks@</string>
+		<key>x_tasks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 задача должна быть выполнена сегодня</string>
+			<key>other</key>
+			<string>%lu задач должны быть выполнены сегодня</string>
+			<key>zero</key>
+			<string>Сегодня не нужно выполнять задачи</string>
+		</dict>
+	</dict>
+	<key>Attendance is limited: %ld spots left</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Количество мест ограничено: осталось %#@x_spots@</string>
+		<key>x_spots</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>%ld место</string>
+			<key>other</key>
+			<string>%ld мест</string>
+			<key>zero</key>
+			<string>0 мест</string>
+		</dict>
+	</dict>
+	<key>Every %ld days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Каждый %#@x_days@</string>
+		<key>x_days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>день</string>
+			<key>other</key>
+			<string>%ld-й день</string>
+			<key>zero</key>
+			<string>0-й день</string>
+		</dict>
+	</dict>
+	<key>Every %ld months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_months@</string>
+		<key>x_months</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>Каждый месяц</string>
+			<key>other</key>
+			<string>Каждые %ld месяцев</string>
+			<key>zero</key>
+			<string>Каждые 0 месяцев</string>
+		</dict>
+	</dict>
+	<key>Every %ld weeks</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_weeks@</string>
+		<key>x_weeks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>Каждую неделю</string>
+			<key>other</key>
+			<string>Каждые %ld недель</string>
+			<key>zero</key>
+			<string>Каждые 0 недель</string>
+		</dict>
+	</dict>
+	<key>Every %ld years</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@x_years@</string>
+		<key>x_years</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>Каждый год</string>
+			<key>other</key>
+			<string>Каждые %ld лет</string>
+			<key>zero</key>
+			<string>Каждые 0 лет</string>
+		</dict>
+	</dict>
+	<key>You’re about to delete %lu items.</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Вы собираетесь удалить %#@x_items@.</string>
+		<key>x_items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>одно событие</string>
+			<key>other</key>
+			<string>%lu событий</string>
+			<key>zero</key>
+			<string>0 событий</string>
+		</dict>
+	</dict>
+	<key>and %lu other times</key>
+	<dict>
+		<key>NSStringLocalized</key>
+		<string></string>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>и %#@x_times@</string>
+		<key>x_times</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>%lu другое время</string>
+			<key>other</key>
+			<string>%lu других времён</string>
+			<key>zero</key>
+			<string>нет другого времени</string>
+		</dict>
+	</dict>
+	<key>days (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days@</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>день</string>
+			<key>other</key>
+			<string>дней</string>
+			<key>zero</key>
+			<string>дней</string>
+		</dict>
+	</dict>
+	<key>days (relative, %ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days@</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>день</string>
+			<key>other</key>
+			<string>дням</string>
+			<key>zero</key>
+			<string>дням</string>
+		</dict>
+	</dict>
+	<key>days after (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days_after@</string>
+		<key>days_after</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>день после</string>
+			<key>other</key>
+			<string>дней после</string>
+			<key>zero</key>
+			<string>дней после</string>
+		</dict>
+	</dict>
+	<key>days before (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days_before@</string>
+		<key>days_before</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>день до</string>
+			<key>other</key>
+			<string>дней до</string>
+			<key>zero</key>
+			<string>дней до</string>
+		</dict>
+	</dict>
+	<key>hours (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours@</string>
+		<key>hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>час</string>
+			<key>other</key>
+			<string>часов</string>
+			<key>zero</key>
+			<string>часов</string>
+		</dict>
+	</dict>
+	<key>hours after (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours_after@</string>
+		<key>hours_after</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>час после</string>
+			<key>other</key>
+			<string>часов после</string>
+			<key>zero</key>
+			<string>часов после</string>
+		</dict>
+	</dict>
+	<key>hours before (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours_before@</string>
+		<key>hours_before</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>час до</string>
+			<key>other</key>
+			<string>часов до</string>
+			<key>zero</key>
+			<string>часов до</string>
+		</dict>
+	</dict>
+	<key>in %ld days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>через %#@x_days@</string>
+		<key>x_days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 день</string>
+			<key>other</key>
+			<string>%ld дней</string>
+			<key>zero</key>
+			<string>0 дней</string>
+		</dict>
+	</dict>
+	<key>in %ld months</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>через %#@x_months@</string>
+		<key>x_months</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 месяц</string>
+			<key>other</key>
+			<string>%ld месяцев</string>
+			<key>zero</key>
+			<string>0 месяцев</string>
+		</dict>
+	</dict>
+	<key>in %ld weeks</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>через %#@x_weeks@</string>
+		<key>x_weeks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 неделю</string>
+			<key>other</key>
+			<string>%ld недель</string>
+			<key>zero</key>
+			<string>0 недель</string>
+		</dict>
+	</dict>
+	<key>mins (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@mins@</string>
+		<key>mins</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>мин</string>
+			<key>other</key>
+			<string>мин</string>
+			<key>zero</key>
+			<string>мин</string>
+		</dict>
+	</dict>
+	<key>minutes (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@minutes@</string>
+		<key>minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>минута</string>
+			<key>other</key>
+			<string>минут</string>
+			<key>zero</key>
+			<string>минут</string>
+		</dict>
+	</dict>
+	<key>minutes after (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@minutes_after@</string>
+		<key>minutes_after</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>минута после</string>
+			<key>other</key>
+			<string>минут после</string>
+			<key>zero</key>
+			<string>минут после</string>
+		</dict>
+	</dict>
+	<key>minutes before (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@minutes_before@</string>
+		<key>minutes_before</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>минута до</string>
+			<key>other</key>
+			<string>минут до</string>
+			<key>zero</key>
+			<string>минут до</string>
+		</dict>
+	</dict>
+	<key>months (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@months@</string>
+		<key>months</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>месяц</string>
+			<key>other</key>
+			<string>месяцев</string>
+			<key>zero</key>
+			<string>месяцев</string>
+		</dict>
+	</dict>
+	<key>times (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@times@</string>
+		<key>times</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>раз</string>
+			<key>other</key>
+			<string>раз</string>
+			<key>zero</key>
+			<string>раз</string>
+		</dict>
+	</dict>
+	<key>until %ld minutes before</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>до %#@x_minutes@ до</string>
+		<key>x_minutes</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>1 минуты</string>
+			<key>other</key>
+			<string>%ld минут</string>
+			<key>zero</key>
+			<string>0 минут</string>
+		</dict>
+	</dict>
+	<key>weeks (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@weeks@</string>
+		<key>weeks</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>неделя</string>
+			<key>other</key>
+			<string>недель</string>
+			<key>zero</key>
+			<string>недель</string>
+		</dict>
+	</dict>
+	<key>years (%ld)</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@years@</string>
+		<key>years</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>ld</string>
+			<key>one</key>
+			<string>год</string>
+			<key>other</key>
+			<string>лет</string>
+			<key>zero</key>
+			<string>лет</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

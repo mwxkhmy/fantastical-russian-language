@@ -1,0 +1,12 @@
+/* mwxkhmy */
+/* Class = "NSButtonCell"; title = "Enable automatic feedback"; ObjectID = "21"; */
+"21.title" = "Включить автоматическую отправку отзывов";
+
+/* Class = "NSButtonCell"; title = "Show flag as incorrect button"; ObjectID = "23"; */
+"23.title" = "Показывать кнопку для сообщения об ошибках";
+
+/* Class = "NSTextFieldCell"; title = "Automatic feedback sends sentences you enter back to Flexibits. This information is used to help make Fantastical's natural language engine better. Your data is sent securely, kept private, and is used for no other purpose.\n\nWhat exactly is sent back?\n- Any sentence you add using Fantastical\n- Any corrections or changes made to the event\n- No identifying information about your system is sent"; ObjectID = "25"; */
+"25.title" = "Автоматическая отправка отзывов передаёт введённые вами фразы в Flexibits. Эти данные помогают улучшить обработку естественного языка в Fantastical. Ваши данные передаются безопасно, остаются конфиденциальными и не используются ни для каких других целей.\n\nЧто именно отправляется?\n- Любая фраза, которую вы вводите в Fantastical\n- Любые исправления или изменения, внесённые в событие\n- Никакая информация, позволяющая идентифицировать вас или вашу систему, не отправляется";
+
+/* Class = "NSTextFieldCell"; title = "This option adds a button to the upper-right of Fantastical's interface that you can use to tell us when Fantastical parses a sentence incorrectly."; ObjectID = "27"; */
+"27.title" = "Эта опция добавляет кнопку в правый верхний угол интерфейса Fantastical, с помощью которой вы можете сообщать нам, когда Fantastical неправильно интерпретирует введённую фразу.";

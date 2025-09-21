@@ -1,0 +1,120 @@
+/* mwxkhmy */
+/* Class = "NSButtonCell"; title = "Show completed tasks"; ObjectID = "0RB-rz-u7V"; */
+"0RB-rz-u7V.title" = "Показывать выполненные задачи";
+
+/* Class = "NSButtonCell"; title = "Show declined events"; ObjectID = "3CL-SJ-uYO"; */
+"3CL-SJ-uYO.title" = "Показывать отклонённые события";
+
+/* Class = "NSButtonCell"; title = "Show calendar week numbers"; ObjectID = "3gX-RT-Xvm"; */
+"3gX-RT-Xvm.title" = "Показывать номера недель";
+
+/* Class = "NSMenuItem"; title = "Priority & Due Date"; ObjectID = "4xu-iD-eP3"; */
+"4xu-iD-eP3.title" = "Приоритет и срок";
+
+/* Class = "NSMenuItem"; title = "Extra Extra Large"; ObjectID = "5yK-J2-hNN"; */
+"5yK-J2-hNN.title" = "Огромный";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "show map for locations"; ObjectID = "6AX-Lt-jdM"; */
+"6AX-Lt-jdM.ibExternalAccessibilityDescription" = "показывать карту для местоположений";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to show a map for locations in the item preview"; ObjectID = "6AX-Lt-jdM"; */
+"6AX-Lt-jdM.ibExternalAccessibilityHelp" = "включите, чтобы показывать карту для местоположений в предпросмотре события";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show a map for locations in the item preview"; ObjectID = "6AX-Lt-jdM"; */
+"6AX-Lt-jdM.ibShadowedToolTip" = "Показывать карту для местоположений в предпросмотре события";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "show when events end"; ObjectID = "9ds-WH-KHY"; */
+"9ds-WH-KHY.ibExternalAccessibilityDescription" = "показывать время окончания событий";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to show the end time of events in the event list"; ObjectID = "9ds-WH-KHY"; */
+"9ds-WH-KHY.ibExternalAccessibilityHelp" = "включите, чтобы показывать время окончания событий в списке";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show the end time of events in the event list"; ObjectID = "9ds-WH-KHY"; */
+"9ds-WH-KHY.ibShadowedToolTip" = "Показывать время окончания событий в списке";
+
+/* Class = "NSButtonCell"; title = "Use Gravatar for invitee images"; ObjectID = "9hh-Pe-KZL"; */
+"9hh-Pe-KZL.title" = "Использовать Gravatar для аватаров участников";
+
+/* Class = "NSButtonCell"; title = "Start calendar weeks on a custom date"; ObjectID = "a5o-da-8TD"; */
+"a5o-da-8TD.title" = "Начинать недели с произвольной даты";
+
+/* Class = "NSButtonCell"; title = "Go to today after adding items"; ObjectID = "a7V-IA-RSS"; */
+"a7V-IA-RSS.title" = "Переходить к сегодняшнему дню после добавления событий";
+
+/* Class = "NSButtonCell"; title = "Show tasks in calendar views"; ObjectID = "bFN-ED-zHB"; */
+"bFN-ED-zHB.title" = "Показывать задачи в календаре";
+
+/* Class = "NSButtonCell"; title = "Show multi-day events in all-day section"; ObjectID = "BOX-up-nW0"; */
+"BOX-up-nW0.title" = "Показывать многодневные события в разделе целодневных";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "text size"; ObjectID = "DFk-Ua-cjE"; */
+"DFk-Ua-cjE.ibExternalAccessibilityDescription" = "размер текста";
+
+/* Class = "NSButtonCell"; title = "Combine identical events"; ObjectID = "dRp-id-6Mw"; */
+"dRp-id-6Mw.title" = "Объединять одинаковые события";
+
+/* Class = "NSButtonCell"; title = "Show hidden items"; ObjectID = "DSb-Po-g3k"; */
+"DSb-Po-g3k.title" = "Показывать скрытые события";
+
+/* Class = "NSMenuItem"; title = "Small"; ObjectID = "dZH-Ui-63O"; */
+"dZH-Ui-63O.title" = "Маленький";
+
+/* Class = "NSMenuItem"; title = "Extra Large"; ObjectID = "Hvv-Mb-wAa"; */
+"Hvv-Mb-wAa.title" = "Очень большой";
+
+/* Class = "NSMenuItem"; title = "Title"; ObjectID = "hZ0-H9-309"; */
+"hZ0-H9-309.title" = "Заголовок";
+
+/* Class = "NSButtonCell"; title = "Organize tasks by list"; ObjectID = "I1d-ZV-lMX"; */
+"I1d-ZV-lMX.title" = "Группировать задачи по спискам";
+
+/* Class = "NSTextFieldCell"; title = "List shows:"; ObjectID = "jI1-4U-Dfm"; */
+"jI1-4U-Dfm.title" = "Список показывает:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "task sort"; ObjectID = "jsY-la-902"; */
+"jsY-la-902.ibExternalAccessibilityDescription" = "сортировка задач";
+
+/* Class = "NSButtonCell"; title = "Show map for locations"; ObjectID = "kzP-Lg-gYx"; */
+"kzP-Lg-gYx.title" = "Показывать карту для местоположений";
+
+/* Class = "NSTextFieldCell"; title = "Sort tasks by:"; ObjectID = "l3z-RU-Qu5"; */
+"l3z-RU-Qu5.title" = "Сортировать задачи по:";
+
+/* Class = "NSMenuItem"; title = "All Days"; ObjectID = "LWj-uf-H1X"; */
+"LWj-uf-H1X.title" = "Все дни";
+
+/* Class = "NSMenuItem"; title = "Selected Day & Next Day"; ObjectID = "qkF-BA-0mB"; */
+"qkF-BA-0mB.title" = "Выбранный день и следующий";
+
+/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "QV7-fo-VgD"; */
+"QV7-fo-VgD.title" = "Размер текста:";
+
+/* Class = "NSMenuItem"; title = "Normal"; ObjectID = "Rwu-c9-Oo3"; */
+"Rwu-c9-Oo3.title" = "Обычный";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "list shows"; ObjectID = "t4U-PQ-Pko"; */
+"t4U-PQ-Pko.ibExternalAccessibilityDescription" = "отображение списка";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "how many days to show in the list"; ObjectID = "t4U-PQ-Pko"; */
+"t4U-PQ-Pko.ibExternalAccessibilityHelp" = "сколько дней показывать в списке";
+
+/* Class = "NSButtonCell"; title = "Show when events end"; ObjectID = "ugA-QS-X38"; */
+"ugA-QS-X38.title" = "Показывать окончание событий";
+
+/* Class = "NSMenuItem"; title = "Extra Small"; ObjectID = "v6a-YC-o7p"; */
+"v6a-YC-o7p.title" = "Очень маленький";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "show calendar week numbers"; ObjectID = "vpe-wr-tNT"; */
+"vpe-wr-tNT.ibExternalAccessibilityDescription" = "показывать номера недель";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Show ISO 8601 calendar week numbers"; ObjectID = "vpe-wr-tNT"; */
+"vpe-wr-tNT.ibShadowedToolTip" = "Показывать номера недель по стандарту ISO 8601";
+
+/* Class = "NSMenuItem"; title = "Large"; ObjectID = "wrF-k4-cay"; */
+"wrF-k4-cay.title" = "Большой";
+
+/* Class = "NSMenuItem"; title = "Selected Day Only"; ObjectID = "xhk-WC-fz6"; */
+"xhk-WC-fz6.title" = "Только выбранный день";
+
+/* Class = "NSMenuItem"; title = "Due Date"; ObjectID = "xia-A5-LZh"; */
+"xia-A5-LZh.title" = "Срок выполнения";

@@ -1,0 +1,108 @@
+/* mwxkhmy */
+/* Class = "NSButtonCell"; title = "Show second time zone in Day and Week"; ObjectID = "4eP-dK-caW"; */
+"4eP-dK-caW.title" = "Показывать вторую временную зону в режимах День и Неделя"; 
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "9xk-hN-FwR"; */
+"9xk-hN-FwR.title" = "Другое…"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "include anonymous system profile"; ObjectID = "BhH-8i-5Ps"; */
+"BhH-8i-5Ps.ibExternalAccessibilityDescription" = "включать анонимные данные системы"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to include anonymous information about your system when checking for updates"; ObjectID = "BhH-8i-5Ps"; */
+"BhH-8i-5Ps.ibExternalAccessibilityHelp" = "включите, чтобы отправлять анонимную информацию о системе при проверке обновлений"; 
+
+/* Class = "NSButton"; ibShadowedToolTip = "Anonymous data contains information about your system such as your Mac model, OS version, and language."; ObjectID = "BhH-8i-5Ps"; */
+"BhH-8i-5Ps.ibShadowedToolTip" = "Анонимные данные включают информацию о вашей системе: модель Mac, версию ОС и язык."; 
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "c77-W4-SBc"; */
+"c77-W4-SBc.title" = "Другое…"; 
+
+/* Class = "NSButtonCell"; title = "Send error reports"; ObjectID = "CQL-Zn-E7b"; */
+"CQL-Zn-E7b.title" = "Отправлять отчёты об ошибках"; 
+
+/* Class = "NSMenuItem"; title = "Browser"; ObjectID = "dC6-eo-L5D"; */
+"dC6-eo-L5D.title" = "Браузер"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "remove time zone"; ObjectID = "dU9-PZ-vCy"; */
+"dU9-PZ-vCy.ibExternalAccessibilityDescription" = "удалить временную зону"; 
+
+/* Class = "NSButtonCell"; title = "Check for beta updates"; ObjectID = "eRE-Ds-fQy"; */
+"eRE-Ds-fQy.title" = "Проверять наличие бета-обновлений"; 
+
+/* Class = "NSButtonCell"; title = "Include anonymous system profile"; ObjectID = "ggU-Fs-lE3"; */
+"ggU-Fs-lE3.title" = "Отправлять анонимные данные системы"; 
+
+/* Class = "NSTextFieldCell"; title = "Open maps in:"; ObjectID = "hkv-zE-Y1S"; */
+"hkv-zE-Y1S.title" = "Открывать карты в:"; 
+
+/* Class = "NSMenuItem"; title = "Google Maps"; ObjectID = "hUg-XQ-XPY"; */
+"hUg-XQ-XPY.title" = "Google Maps"; 
+
+/* Class = "NSTextFieldCell"; title = "Favorite Time Zones:"; ObjectID = "kSF-9T-aS6"; */
+"kSF-9T-aS6.title" = "Избранные временные зоны:"; 
+
+/* Class = "NSButtonCell"; title = "Automatically check for updates"; ObjectID = "NcT-vm-gnQ"; */
+"NcT-vm-gnQ.title" = "Автоматически проверять обновления"; 
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "niC-RE-ovY"; */
+"niC-RE-ovY.title" = "Очистить меню"; 
+
+/* Class = "NSMenuItem"; title = "Apple Maps"; ObjectID = "Nv4-cm-nBQ"; */
+"Nv4-cm-nBQ.title" = "Карты Apple"; 
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "oLF-jF-r3i"; */
+"oLF-jF-r3i.title" = "Другое…"; 
+
+/* Class = "NSButtonCell"; title = "Time zone override"; ObjectID = "P5r-JX-6UP"; */
+"P5r-JX-6UP.title" = "Фиксированная временная зона"; 
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "qPG-4L-1KS"; */
+"qPG-4L-1KS.title" = "Очистить меню"; 
+
+/* Class = "NSTextFieldCell"; title = "Open conference calls in:"; ObjectID = "tMr-pd-yRi"; */
+"tMr-pd-yRi.title" = "Открывать конференц-звонки в:"; 
+
+/* Class = "NSTextFieldCell"; title = "Shows a second time line with a separate time zone in Day and Week views."; ObjectID = "tx5-c0-YbH"; */
+"tx5-c0-YbH.title" = "Показывает вторую временную шкалу с отдельной временной зоной в режимах День и Неделя."; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "time zone"; ObjectID = "UcH-Vq-K2a"; */
+"UcH-Vq-K2a.ibExternalAccessibilityDescription" = "временная зона"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select a time zone you want to view dates in"; ObjectID = "UcH-Vq-K2a"; */
+"UcH-Vq-K2a.ibExternalAccessibilityHelp" = "выберите временную зону, в которой вы хотите видеть даты и время"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "maps application"; ObjectID = "Ulx-JX-Ayf"; */
+"Ulx-JX-Ayf.ibExternalAccessibilityDescription" = "приложение карт"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select the application you want to view locations in"; ObjectID = "Ulx-JX-Ayf"; */
+"Ulx-JX-Ayf.ibExternalAccessibilityHelp" = "выберите приложение, в котором вы хотите открывать местоположения"; 
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled Fantastical will show a second time line in Day and Week views"; ObjectID = "UvL-TU-Tf8"; */
+"UvL-TU-Tf8.ibShadowedToolTip" = "При включении Fantastical будет показывать вторую временную шкалу в режимах День и Неделя"; 
+
+/* Class = "NSButtonCell"; title = "Show favorite time zones with event details"; ObjectID = "xyp-5N-7O2"; */
+"xyp-5N-7O2.title" = "Показывать избранные временные зоны в деталях событий"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "time zone"; ObjectID = "YFu-JH-qga"; */
+"YFu-JH-qga.ibExternalAccessibilityDescription" = "временная зона"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityHelp = "select a time zone you want to view dates in"; ObjectID = "YFu-JH-qga"; */
+"YFu-JH-qga.ibExternalAccessibilityHelp" = "выберите временную зону, в которой вы хотите видеть даты и время"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "automatically check for updates"; ObjectID = "z5e-wd-Seu"; */
+"z5e-wd-Seu.ibExternalAccessibilityDescription" = "автоматически проверять обновления"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to automatically check for updates"; ObjectID = "z5e-wd-Seu"; */
+"z5e-wd-Seu.ibExternalAccessibilityHelp" = "включите для автоматической проверки обновлений"; 
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "add time zone"; ObjectID = "Zf8-uk-j0O"; */
+"Zf8-uk-j0O.ibExternalAccessibilityDescription" = "добавить временную зону"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "time zone override"; ObjectID = "zkT-4Z-JYW"; */
+"zkT-4Z-JYW.ibExternalAccessibilityDescription" = "фиксированная временная зона"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to show dates in a different time zone"; ObjectID = "zkT-4Z-JYW"; */
+"zkT-4Z-JYW.ibExternalAccessibilityHelp" = "включите, чтобы отображать даты и время в другой временной зоне"; 
+
+/* Class = "NSButton"; ibShadowedToolTip = "When enabled Fantastical will show dates and times in the selected time zone"; ObjectID = "zkT-4Z-JYW"; */
+"zkT-4Z-JYW.ibShadowedToolTip" = "При включении Fantastical будет показывать даты и время в выбранной временной зоне"; 

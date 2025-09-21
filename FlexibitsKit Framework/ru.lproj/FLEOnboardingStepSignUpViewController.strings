@@ -1,0 +1,44 @@
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "9ye-M9-nEu"; */
+"9ye-M9-nEu.title" = "Электронная почта:";
+
+/* Class = "NSButtonCell"; title = "Sign Up with Email"; ObjectID = "cxa-ia-Za6"; */
+"cxa-ia-Za6.title" = "Зарегистрироваться по электронной почте";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "gDI-M0-qpm"; */
+"gDI-M0-qpm.title" = "Пароль:";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "H9P-02-aGN"; */
+"H9P-02-aGN.title" = "Имя:";
+
+/* Class = "NSTextFieldCell"; title = "OR"; ObjectID = "Hzt-ln-B2p"; Note = "Sign up for account OR Sign in with Google"; */
+"Hzt-ln-B2p.title" = "ИЛИ";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "Khr-2j-w2v"; */
+"Khr-2j-w2v.placeholderString" = "Электронная почта";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Confirm Password"; ObjectID = "qhy-sb-GIh"; */
+"qhy-sb-GIh.placeholderString" = "Подтвердите пароль";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Password"; ObjectID = "Rap-PQ-wt0"; */
+"Rap-PQ-wt0.placeholderString" = "Пароль";
+
+/* Class = "NSTextFieldCell"; title = "Confirm Password:"; ObjectID = "sxn-ma-a8A"; */
+"sxn-ma-a8A.title" = "Подтвердите пароль:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "uZh-hk-L67"; */
+"uZh-hk-L67.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Name"; ObjectID = "viW-tL-qi7"; */
+"viW-tL-qi7.placeholderString" = "Имя";
+
+/* Class = "NSTextFieldCell"; title = "Sign Up"; ObjectID = "W12-2n-6zo"; */
+"W12-2n-6zo.title" = "Зарегистрироваться";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "Z9K-1p-8GS"; */
+"Z9K-1p-8GS.title" = "Зарегистрироваться";
+
+/* Class = "NSButtonCell"; title = "I Already Have An Account"; ObjectID = "ZsW-cu-0zd"; */
+"ZsW-cu-0zd.title" = "У меня уже есть учётная запись";
+
+/* Class = "NSButtonCell"; title = "Sign Up with Passkey"; ObjectID = "zZf-9t-qbd"; */
+"zZf-9t-qbd.title" = "Зарегистрироваться с Passkey";

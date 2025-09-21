@@ -1,0 +1,17 @@
+/* Class = "NSButtonCell"; title = "Change Location…"; ObjectID = "0ls-8z-ezi"; */
+"0ls-8z-ezi.title" = "Изменить местоположение…";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search Places"; ObjectID = "7tz-cD-lIY"; */
+"7tz-cD-lIY.placeholderString" = "Поиск мест";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "Fyo-FS-lOh"; */
+"Fyo-FS-lOh.title" = "Отмена";
+
+/* Class = "NSButtonCell"; title = "Show weather for:"; ObjectID = "jh6-mq-fQC"; */
+"jh6-mq-fQC.title" = "Показывать погоду для:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "open accuweather.com"; ObjectID = "maV-gT-8rL"; */
+"maV-gT-8rL.ibExternalAccessibilityDescription" = "открыть accuweather.com";
+
+/* Class = "NSButtonCell"; title = "Choose Location"; ObjectID = "Qxc-ia-HrB"; */
+"Qxc-ia-HrB.title" = "Выбрать местоположение";

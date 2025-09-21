@@ -1,0 +1,14 @@
+/* Class = "NSWindow"; title = "Interesting Calendars"; ObjectID = "1za-nt-bpe"; */
+"1za-nt-bpe.title" = "Интересные календари";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Powered by SchedJoules"; ObjectID = "CTD-Dj-ECy"; */
+"CTD-Dj-ECy.ibExternalAccessibilityDescription" = "Работает на SchedJoules";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "open SchedJoules in browser"; ObjectID = "CTD-Dj-ECy"; */
+"CTD-Dj-ECy.ibExternalAccessibilityHelp" = "Открыть SchedJoules в браузере";
+
+/* Class = "NSTextFieldCell"; title = "A comprehensive collection of calendars for holidays, sports, TV, and much more."; ObjectID = "hDR-YU-cV5"; */
+"hDR-YU-cV5.title" = "Большая подборка календарей: праздники, спорт, ТВ и многое другое.";
+
+/* Class = "NSTextFieldCell"; title = "Interesting Calendars"; ObjectID = "wR8-SO-6Lz"; */
+"wR8-SO-6Lz.title" = "Интересные календари";

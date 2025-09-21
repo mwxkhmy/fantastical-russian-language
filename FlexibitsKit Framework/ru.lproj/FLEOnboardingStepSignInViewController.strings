@@ -1,0 +1,38 @@
+/* Class = "NSButtonCell"; title = "Create Account"; ObjectID = "0cP-Tm-MEJ"; */
+"0cP-Tm-MEJ.title" = "Создать учётную запись";
+
+/* Class = "NSButtonCell"; title = "Create Account"; ObjectID = "cV9-o8-O29"; */
+"cV9-o8-O29.title" = "Создать учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "OR"; ObjectID = "dLd-PW-BsN"; Note = "Sign in with email and password OR Sign in with Google"; */
+"dLd-PW-BsN.title" = "ИЛИ";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "Evu-EL-9MA"; */
+"Evu-EL-9MA.placeholderString" = "Электронная почта";
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Password"; ObjectID = "PPq-b3-7wT"; */
+"PPq-b3-7wT.placeholderString" = "Пароль";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "qd7-43-Qj8"; */
+"qd7-43-Qj8.title" = "Электронная почта:";
+
+/* Class = "NSButtonCell"; title = "Sign in with SSO"; ObjectID = "QO8-RU-9P2"; */
+"QO8-RU-9P2.title" = "Войти через SSO";
+
+/* Class = "NSTextFieldCell"; title = "OR"; ObjectID = "Rc5-1a-nrL"; Note = "Sign in with email and password OR Sign in with Google"; */
+"Rc5-1a-nrL.title" = "ИЛИ";
+
+/* Class = "NSButtonCell"; title = "I Forgot My Password"; ObjectID = "tc9-8I-IkA"; */
+"tc9-8I-IkA.title" = "Забыли пароль?";
+
+/* Class = "NSTextFieldCell"; title = "Sign In"; ObjectID = "Uk1-pB-JhP"; */
+"Uk1-pB-JhP.title" = "Войти";
+
+/* Class = "NSButtonCell"; title = "Use Another Account"; ObjectID = "V3z-hq-Xp4"; */
+"V3z-hq-Xp4.title" = "Использовать другую учётную запись";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "Wfa-0j-Jac"; */
+"Wfa-0j-Jac.title" = "Войти";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "YVz-Hy-zeG"; */
+"YVz-Hy-zeG.title" = "Пароль:";

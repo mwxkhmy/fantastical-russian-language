@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "1vH-OY-jTo"; */
+"1vH-OY-jTo.title" = "Закрыть";
+
+/* Class = "NSButtonCell"; title = "Reload"; ObjectID = "4Sn-nW-ueJ"; */
+"4Sn-nW-ueJ.title" = "Обновить";
+
+/* Class = "NSButtonCell"; title = "Remind Me Tomorrow"; ObjectID = "b9v-Xv-1Pw"; */
+"b9v-Xv-1Pw.title" = "Напомнить завтра";
+
+/* Class = "NSButtonCell"; title = "Try For Free"; ObjectID = "e5j-hR-yyN"; */
+"e5j-hR-yyN.title" = "Попробовать бесплатно";
+
+/* Class = "NSWindow"; title = "Welcome to Fantastical 3"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Добро пожаловать в Fantastical 3";

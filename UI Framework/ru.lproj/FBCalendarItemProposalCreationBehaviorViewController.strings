@@ -1,0 +1,11 @@
+/* Class = "NSTextFieldCell"; title = "add event"; ObjectID = "4QD-dK-lIs"; */
+"4QD-dK-lIs.title" = "добавить событие";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "add event"; ObjectID = "dEh-4S-C9d"; */
+"dEh-4S-C9d.ibExternalAccessibilityDescription" = "добавить событие";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "PzP-iF-sCf"; */
+"PzP-iF-sCf.title" = "Вручную";
+
+/* Class = "NSMenuItem"; title = "When replies are unanimous"; ObjectID = "tQF-IE-sSO"; */
+"tQF-IE-sSO.title" = "Когда ответы единогласны";

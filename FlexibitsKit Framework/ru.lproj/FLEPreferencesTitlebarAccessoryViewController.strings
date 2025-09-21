@@ -1,0 +1,8 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "back"; ObjectID = "Y63-zp-gEM"; */
+"Y63-zp-gEM.ibExternalAccessibilityDescription" = "назад";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "show all settings"; ObjectID = "YFB-iA-G9Z"; */
+"YFB-iA-G9Z.ibExternalAccessibilityDescription" = "показать все настройки";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "forward"; ObjectID = "zRc-Px-2iM"; */
+"zRc-Px-2iM.ibExternalAccessibilityDescription" = "вперёд";

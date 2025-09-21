@@ -1,0 +1,32 @@
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "62c-tb-mtt"; */
+"62c-tb-mtt.title" = "Очистить меню";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "days"; ObjectID = "c0h-kY-UVi"; */
+"c0h-kY-UVi.ibExternalAccessibilityDescription" = "дни";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "Dd8-Hm-pnd"; */
+"Dd8-Hm-pnd.title" = "Очистить меню";
+
+/* Class = "NSTextFieldCell"; title = "all-day"; ObjectID = "Fgh-L9-KyA"; */
+"Fgh-L9-KyA.title" = "весь день";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "all day events"; ObjectID = "ggX-Tf-NQb"; */
+"ggX-Tf-NQb.ibExternalAccessibilityDescription" = "события на весь день";
+
+/* Class = "NSTextFieldCell"; title = "No Item Selected"; ObjectID = "I4m-jA-wG5"; */
+"I4m-jA-wG5.title" = "Элемент не выбран";
+
+/* Class = "NSTextFieldCell"; title = "all-day"; ObjectID = "ikp-7V-i9u"; */
+"ikp-7V-i9u.title" = "весь день";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "npx-fo-7Ps"; */
+"npx-fo-7Ps.title" = "Другое…";
+
+/* Class = "NSMenuItem"; title = "Other…"; ObjectID = "P7T-cc-WBL"; */
+"P7T-cc-WBL.title" = "Другое…";
+
+/* Class = "NSTextFieldCell"; title = "Enjoy your day!"; ObjectID = "YyH-I2-Xyr"; */
+"YyH-I2-Xyr.title" = "Хорошего дня!";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "timed events"; ObjectID = "zcM-kg-psF"; */
+"zcM-kg-psF.ibExternalAccessibilityDescription" = "события";

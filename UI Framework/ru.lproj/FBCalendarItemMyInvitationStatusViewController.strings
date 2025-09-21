@@ -1,0 +1,29 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "status"; ObjectID = "5Dw-mA-b6g"; */
+"5Dw-mA-b6g.ibExternalAccessibilityDescription" = "статус";
+
+/* Class = "NSMenuItem"; title = "Declined (Don’t Notify)"; ObjectID = "Aa8-wD-ImD"; */
+"Aa8-wD-ImD.title" = "Отклонено (без уведомления)";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "ITb-kW-1Mz"; */
+"ITb-kW-1Mz.title" = "Сохранить";
+
+/* Class = "NSMenuItem"; title = "Accepted"; ObjectID = "Je9-Bn-Fgf"; */
+"Je9-Bn-Fgf.title" = "Принято";
+
+/* Class = "NSMenuItem"; title = "Declined"; ObjectID = "Mqx-FB-gKe"; */
+"Mqx-FB-gKe.title" = "Отклонено";
+
+/* Class = "NSMenuItem"; title = "Maybe"; ObjectID = "PQt-E6-dz4"; */
+"PQt-E6-dz4.title" = "Возможно";
+
+/* Class = "NSTextFieldCell"; title = "my status"; ObjectID = "RcN-zS-rVy"; */
+"RcN-zS-rVy.title" = "Мой статус";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "RPC-8g-SLO"; */
+"RPC-8g-SLO.title" = "Отмена";
+
+/* Class = "NSMenuItem"; title = "Accepted (Don’t Notify)"; ObjectID = "xle-oN-70a"; */
+"xle-oN-70a.title" = "Принято (без уведомления)";
+
+/* Class = "NSMenuItem"; title = "Maybe (Don’t Notify)"; ObjectID = "yBK-8u-N9g"; */
+"yBK-8u-N9g.title" = "Возможно (без уведомления)";

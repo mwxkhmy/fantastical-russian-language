@@ -1,0 +1,206 @@
+/* Class = "NSButtonCell"; title = "Share with Flexibits"; ObjectID = "2SH-5W-sZQ"; */
+"2SH-5W-sZQ.title" = "Поделиться с Flexibits";
+
+/* Class = "NSButtonCell"; title = "Don’t Subscribe"; ObjectID = "4dG-JE-kNE"; */
+"4dG-JE-kNE.title" = "Не подписываться";
+
+/* Class = "NSTextFieldCell"; title = "No Accounts Detected"; ObjectID = "4zg-Zw-3sD"; */
+"4zg-Zw-3sD.title" = "Учётные записи не найдены";
+
+/* Class = "NSTextFieldCell"; title = "Choose what you want to be kept up to date with about what’s happening with Flexibits."; ObjectID = "6MS-rA-dQD"; */
+"6MS-rA-dQD.title" = "Выберите, о каких новостях Flexibits вы хотите получать уведомления.";
+
+/* Class = "NSButtonCell"; title = "Run In Background"; ObjectID = "8ba-v3-qUi"; */
+"8ba-v3-qUi.title" = "Работать в фоне";
+
+/* Class = "NSTextFieldCell"; title = "It looks like you have local calendars set up on your Mac. Would you like to use those with Fantastical?"; ObjectID = "37L-ZP-SYx"; */
+"37L-ZP-SYx.title" = "Похоже, на вашем Mac настроены локальные календари. Хотите использовать их в Fantastical?";
+
+/* Class = "NSButtonCell"; title = "Don’t Open"; ObjectID = "53E-Me-fGJ"; */
+"53E-Me-fGJ.title" = "Не открывать";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "239-09-rdI"; */
+"239-09-rdI.title" = "Добавить учётную запись";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Email"; ObjectID = "arv-x6-wZH"; */
+"arv-x6-wZH.placeholderString" = "Email";
+
+/* Class = "NSTextFieldCell"; title = "Verify Email"; ObjectID = "b8g-vu-hOA"; */
+"b8g-vu-hOA.title" = "Подтвердите email";
+
+/* Class = "NSTextFieldCell"; title = "It only takes a few short steps to set up Fantastical."; ObjectID = "BEw-q8-IFA"; */
+"BEw-q8-IFA.title" = "Настройка Fantastical займёт всего несколько шагов.";
+
+/* Class = "NSTextFieldCell"; title = "Run In Background"; ObjectID = "BJU-II-WK0"; */
+"BJU-II-WK0.title" = "Работать в фоне";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "BLs-mP-cJq"; */
+"BLs-mP-cJq.title" = "Назад";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "bO2-0T-Pu2"; */
+"bO2-0T-Pu2.title" = "Выйти";
+
+/* Class = "NSTextFieldCell"; title = "This data does not contain any calendar, contact, or other personal information and is never shared or sold."; ObjectID = "bsf-U0-yDg"; */
+"bsf-U0-yDg.title" = "Эти данные не содержат информацию из календарей, контактов или другую личную информацию и никогда не передаются третьим лицам и не продаются.";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "CX7-Pw-liX"; */
+"CX7-Pw-liX.title" = "Назад";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "Dh4-f2-DdO"; */
+"Dh4-f2-DdO.title" = "Продолжить";
+
+/* Class = "NSButtonCell"; title = "Copy Account Key"; ObjectID = "E0O-PU-lVg"; */
+"E0O-PU-lVg.title" = "Скопировать ключ учётной записи";
+
+/* Class = "NSButtonCell"; title = "Don’t Use"; ObjectID = "eGX-qD-eRy"; */
+"eGX-qD-eRy.title" = "Не использовать";
+
+/* Class = "NSTextFieldCell"; title = "This is your Flexibits Account key. You will need it to sign in to Fantastical on other devices if they aren't using the same iCloud account."; ObjectID = "ehw-z8-ai9"; */
+"ehw-z8-ai9.title" = "Это ваш ключ учётной записи Flexibits. Он понадобится для входа в Fantastical на других устройствах, если они не привязаны к тому же аккаунту iCloud.";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "EKm-qi-YS4"; */
+"EKm-qi-YS4.title" = "Продолжить";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "eLM-kd-9u8"; */
+"eLM-kd-9u8.title" = "Добавить учётную запись";
+
+/* Class = "NSButtonCell"; title = "Maybe Later"; ObjectID = "eXE-E1-X8Z"; */
+"eXE-E1-X8Z.title" = "Возможно, позже";
+
+/* Class = "NSTextFieldCell"; title = "Enter the email address of your Flexibits Account."; ObjectID = "fR6-e5-Agh"; */
+"fR6-e5-Agh.title" = "Введите email вашей учётной записи Flexibits.";
+
+/* Class = "NSButtonCell"; title = "I Verified My Email"; ObjectID = "gQM-qc-Bbf"; */
+"gQM-qc-Bbf.title" = "Я подтвердил(а) email";
+
+/* Class = "NSTextFieldCell"; title = "Local Calendars"; ObjectID = "gRr-RS-dqP"; */
+"gRr-RS-dqP.title" = "Локальные календари";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "hl4-HX-ZYP"; */
+"hl4-HX-ZYP.title" = "Email:";
+
+/* Class = "NSTextFieldCell"; title = "Fantastical is going to ask for permission to access your calendars, reminders, contacts, and location.\n\nFantastical uses your contacts to manage event invitations and show your contacts’ birthdays and anniversaries.\n\nFantastical uses your location to search for locations when creating events and reminders, as well as to alert you about geofenced reminders.\n\nYour calendars, reminders, and contacts are kept on your Mac and are not shared with anyone."; ObjectID = "iEA-Or-OqQ"; */
+"iEA-Or-OqQ.title" = "Fantastical запросит разрешение на доступ к вашим календарям, напоминаниям, контактам и местоположению.\n\nКонтакты используются для управления приглашениями и отображения дней рождения и годовщин.\n\nМестоположение помогает искать места при создании событий и напоминаний, а также отправлять геозависимые уведомления.\n\nВаши календари, напоминания и контакты хранятся только на вашем Mac и ни с кем не передаются.";
+
+/* Class = "NSTextFieldCell"; title = "Setting up account…"; ObjectID = "Jah-xr-fdf"; */
+"Jah-xr-fdf.title" = "Настройка учётной записи…";
+
+/* Class = "NSButtonCell"; title = "Start Free Trial"; ObjectID = "Jau-Q0-K7r"; */
+"Jau-Q0-K7r.title" = "Начать бесплатный пробный период";
+
+/* Class = "NSTextFieldCell"; title = "Your browser will open to enter your payment information.\nYou will not be charged until your trial ends."; ObjectID = "Jbq-eN-aYK"; */
+"Jbq-eN-aYK.title" = "Откроется браузер для ввода платёжных данных.\nСписание начнётся только после окончания пробного периода.";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "JKo-9v-env"; */
+"JKo-9v-env.title" = "Назад";
+
+/* Class = "NSTextFieldCell"; title = "Fantastical has detected %ld existing accounts. Add the accounts that you'd like to use with Fantastical."; ObjectID = "KCf-TC-nL0"; */
+"KCf-TC-nL0.title" = "Fantastical обнаружил(а) %ld существующих учётных записей. Добавьте те, которыми хотите пользоваться в Fantastical.";
+
+/* Class = "NSTextFieldCell"; title = "You can change this setting later by opening Fantastical’s settings and selecting the Accounts tab."; ObjectID = "KoR-JW-dzw"; */
+"KoR-JW-dzw.title" = "Эту настройку можно изменить позже в разделе «Учётные записи» в настройках Fantastical.";
+
+/* Class = "NSTextFieldCell"; title = "Never share your account key, it encrypts and protects your data. You never need to send your account key to Flexibits or anyone else.\n\nYou can view your account key in Fantastical’s settings at any time."; ObjectID = "kx2-j2-Pnb"; */
+"kx2-j2-Pnb.title" = "Никогда не передавайте свой ключ учётной записи — он шифрует и защищает ваши данные. Вам не нужно отправлять его Flexibits или кому-либо ещё.\n\nПросмотреть ключ можно в любое время в настройках Fantastical.";
+
+/* Class = "NSButtonCell"; title = "Subscribe"; ObjectID = "kyd-26-gbT"; */
+"kyd-26-gbT.title" = "Подписаться";
+
+/* Class = "NSViewController"; title = "Fantastical Setup"; ObjectID = "lTP-oD-V3z"; */
+"lTP-oD-V3z.title" = "Настройка Fantastical";
+
+/* Class = "NSButtonCell"; title = "Open Notifications"; ObjectID = "MGE-05-6bl"; */
+"MGE-05-6bl.title" = "Открыть уведомления";
+
+/* Class = "NSTextFieldCell"; title = "We only send emails when we have something interesting to share. We’ll never share your email with anyone else. We promise."; ObjectID = "mN4-7y-LBi"; */
+"mN4-7y-LBi.title" = "Мы отправляем письма только с действительно интересными новостями. Ваш email никогда не будет передан третьим лицам. Обещаем.";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "ncX-s0-a6D"; */
+"ncX-s0-a6D.title" = "Продолжить";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "nta-1I-QUl"; */
+"nta-1I-QUl.title" = "Продолжить";
+
+/* Class = "NSTextFieldCell"; title = "Fantastical will show notifications for upcoming event alerts and reminders when it is open.\n\nTo avoid duplicate notifications, open System Settings, select the Notifications section, and disable notifications for Calendar and Reminders."; ObjectID = "p9U-bv-9gb"; */
+"p9U-bv-9gb.title" = "Fantastical будет показывать уведомления о предстоящих событиях и напоминаниях, пока приложение открыто.\n\nЧтобы избежать дублирования, откройте «Системные настройки» → «Уведомления» и отключите уведомления для «Календаря» и «Напоминаний».";
+
+/* Class = "NSTextFieldCell"; title = "Go Premium"; ObjectID = "qGa-WO-WTO"; */
+"qGa-WO-WTO.title" = "Перейти на Premium";
+
+/* Class = "NSTextFieldCell"; title = "Notifications"; ObjectID = "QnZ-fM-PAV"; */
+"QnZ-fM-PAV.title" = "Уведомления";
+
+/* Class = "NSTextFieldCell"; title = "Accounts"; ObjectID = "Qp3-A3-s7s"; */
+"Qp3-A3-s7s.title" = "Учётные записи";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "rjS-Jg-DBv"; */
+"rjS-Jg-DBv.title" = "Добавить учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "Help Improve Fantastical"; ObjectID = "rUq-tx-j1e"; */
+"rUq-tx-j1e.title" = "Помогите улучшить Fantastical";
+
+/* Class = "NSButtonCell"; title = "Don’t Share"; ObjectID = "sCU-X1-6KO"; */
+"sCU-X1-6KO.title" = "Не делиться";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "SQQ-iw-lMl"; */
+"SQQ-iw-lMl.title" = "Продолжить";
+
+/* Class = "NSButtonCell"; title = "Use Local Calendars"; ObjectID = "tAZ-X0-Z4p"; */
+"tAZ-X0-Z4p.title" = "Использовать локальные календари";
+
+/* Class = "NSButtonCell"; title = "Maybe Later"; ObjectID = "tnE-vB-fOx"; */
+"tnE-vB-fOx.title" = "Возможно, позже";
+
+/* Class = "NSTextFieldCell"; title = "Go Premium"; ObjectID = "tYb-Le-568"; */
+"tYb-Le-568.title" = "Перейти на Premium";
+
+/* Class = "NSTextFieldCell"; title = "Stay In The Loop"; ObjectID = "U3r-qT-9OA"; */
+"U3r-qT-9OA.title" = "Будьте в курсе";
+
+/* Class = "NSButtonCell"; title = "Send Reverification Email"; ObjectID = "Uf5-MT-vLS"; */
+"Uf5-MT-vLS.title" = "Отправить email для повторной проверки";
+
+/* Class = "NSTextFieldCell"; title = "Do you have other accounts that Fantastical didn’t find?\n\nYou can add and remove accounts later by opening Fantastical’s settings and selecting the Accounts tab."; ObjectID = "uhl-Ri-hcY"; */
+"uhl-Ri-hcY.title" = "У вас есть другие учётные записи, которые Fantastical не нашёл?\n\nВы можете добавить или удалить учётные записи позже в разделе «Учётные записи» в настройках Fantastical.";
+
+/* Class = "NSTextFieldCell"; title = "Will you help us improve Fantastical by allowing it to periodically send analytics?\n\nWe believe in transparency and asking for permission up front, and sending this data helps us make better apps. You can see the data being sent in the Flexibits Account settings. You can change this setting at any time."; ObjectID = "uJP-B0-Rtk"; */
+"uJP-B0-Rtk.title" = "Поможете ли вы нам улучшить Fantastical, разрешив периодическую отправку аналитических данных?\n\nМы ценим прозрачность и всегда запрашиваем разрешение заранее. Эти данные помогают нам создавать лучшие приложения. Вы можете просмотреть, какие данные отправляются, в настройках учётной записи Flexibits. Настройку можно изменить в любое время.";
+
+/* Class = "NSTextFieldCell"; title = "Would you like to join the Flexibits mailing list?\n\nWe only send a few emails per year and we’ll never share your email with anyone else. We promise."; ObjectID = "wEF-tL-ANa"; */
+"wEF-tL-ANa.title" = "Хотите подписаться на рассылку Flexibits?\n\nМы отправляем всего несколько писем в год и никогда не передаём ваш email третьим лицам. Обещаем.";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "wZT-Jp-BNW"; */
+"wZT-Jp-BNW.title" = "Назад";
+
+/* Class = "NSButtonCell"; title = "Reset Password"; ObjectID = "xaA-A9-5wR"; */
+"xaA-A9-5wR.title" = "Сбросить пароль";
+
+/* Class = "NSTextFieldCell"; title = "Forgot Password"; ObjectID = "XeE-8n-Hsl"; */
+"XeE-8n-Hsl.title" = "Забыли пароль";
+
+/* Class = "NSTextFieldCell"; title = "Flexibits Account Key"; ObjectID = "XEK-UU-uLK"; */
+"XEK-UU-uLK.title" = "Ключ учётной записи Flexibits";
+
+/* Class = "NSButtonCell"; title = "Start Free Trial"; ObjectID = "Xlu-5N-6OD"; */
+"Xlu-5N-6OD.title" = "Начать бесплатный пробный период";
+
+/* Class = "NSTextFieldCell"; title = "Would you like Fantastical to run in the background? This will allow Fantastical to stay up to date and show you event and reminder notifications even when Fantastical isn't open."; ObjectID = "xxs-sY-IWh"; */
+"xxs-sY-IWh.title" = "Хотите, чтобы Fantastical работал в фоне? Это позволит получать актуальные обновления и уведомления о событиях и напоминаниях, даже когда приложение закрыто.";
+
+/* Class = "NSSegmentedCell"; XzC-3A-uys.ibShadowedLabels[0] = "Premium"; ObjectID = "XzC-3A-uys"; */
+"XzC-3A-uys.ibShadowedLabels[0]" = "Premium";
+
+/* Class = "NSSegmentedCell"; XzC-3A-uys.ibShadowedLabels[1] = "Family"; ObjectID = "XzC-3A-uys"; */
+"XzC-3A-uys.ibShadowedLabels[1]" = "Семейный";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "Y9Q-Bj-rGe"; */
+"Y9Q-Bj-rGe.title" = "Добавить учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "You can change this later in the Privacy section of the System Settings."; ObjectID = "yg1-2a-kO7"; */
+"yg1-2a-kO7.title" = "Это можно изменить позже в разделе «Конфиденциальность» Системных настроек.";
+
+/* Class = "NSTextFieldCell"; title = "You can change this setting later by opening Fantastical’s settings and selecting the General tab."; ObjectID = "yXk-lw-M63"; */
+"yXk-lw-M63.title" = "Эту настройку можно изменить позже в разделе «Основные» в настройках Fantastical.";
+
+/* Class = "NSTextFieldCell"; title = "Access Request"; ObjectID = "zeM-D2-Tu3"; */
+"zeM-D2-Tu3.title" = "Запрос доступа";

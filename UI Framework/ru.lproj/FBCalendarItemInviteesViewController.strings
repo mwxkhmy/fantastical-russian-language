@@ -1,0 +1,11 @@
+/* Class = "NSButtonCell"; title = "Refresh"; ObjectID = "8lQ-Hj-WpY"; */
+"8lQ-Hj-WpY.title" = "Обновить";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "invitees"; ObjectID = "HbL-ZG-Gmz"; */
+"HbL-ZG-Gmz.ibExternalAccessibilityDescription" = "участники";
+
+/* Class = "NSTextFieldCell"; title = "Last sync 1 day ago"; ObjectID = "iKj-c5-G0b"; */
+"iKj-c5-G0b.title" = "Последняя синхронизация: 1 день назад";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Add Invitees"; ObjectID = "jxy-Me-7VZ"; */
+"jxy-Me-7VZ.placeholderString" = "Добавить участников";

@@ -1,0 +1,5 @@
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "time zone"; ObjectID = "0P8-Ce-5Kb"; */
+"0P8-Ce-5Kb.ibExternalAccessibilityDescription" = "часовой пояс";
+
+/* Class = "NSTextFieldCell"; title = "time zone"; ObjectID = "TEN-Di-jcU"; */
+"TEN-Di-jcU.title" = "часовой пояс";

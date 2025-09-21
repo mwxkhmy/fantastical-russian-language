@@ -1,0 +1,20 @@
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "add account"; ObjectID = "419"; */
+"419.ibExternalAccessibilityDescription" = "добавить учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "remove account"; ObjectID = "444"; */
+"444.ibExternalAccessibilityDescription" = "удалить учётную запись";
+
+/* Class = "NSTextFieldCell"; title = "Add your iCloud, Google, Exchange, Microsoft 365, and other CalDAV accounts here.\nYour account passwords, events, and tasks stay on your Mac and are never sent to us."; ObjectID = "H6E-yD-IrE"; */
+"H6E-yD-IrE.title" = "Добавьте сюда ваши учётные записи iCloud, Google, Exchange, Microsoft 365 и другие CalDAV-аккаунты.\nВаши пароли, события и задачи хранятся только на вашем Mac и никогда не передаются нам.";
+
+/* Class = "NSButtonCell"; title = "Fix"; ObjectID = "iFV-7x-2r6"; */
+"iFV-7x-2r6.title" = "Исправить";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "oBA-Fq-5nV"; */
+"oBA-Fq-5nV.title" = "Отмена";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Account Sync Error"; ObjectID = "V17-2Y-CY9"; */
+"V17-2Y-CY9.ibExternalAccessibilityDescription" = "ошибка синхронизации учётной записи";
+
+/* Class = "NSTextFieldCell"; title = "Add Account"; ObjectID = "vWJ-ML-1ti"; */
+"vWJ-ML-1ti.title" = "Добавить учётную запись";

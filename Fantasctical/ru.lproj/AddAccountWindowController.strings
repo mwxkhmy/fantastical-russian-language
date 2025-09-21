@@ -1,0 +1,129 @@
+/* mwxkhmy */
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "use ssl"; ObjectID = "1Hn-DM-D7c"; */
+"1Hn-DM-D7c.ibExternalAccessibilityDescription" = "использовать SSL"; 
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to use ssl for communication"; ObjectID = "1Hn-DM-D7c"; */
+"1Hn-DM-D7c.ibExternalAccessibilityHelp" = "включите для использования SSL при связи"; 
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enable to use SSL for communication"; ObjectID = "1Hn-DM-D7c"; */
+"1Hn-DM-D7c.ibShadowedToolTip" = "Включить для использования SSL при связи"; 
+
+/* Class = "NSButtonCell"; title = "Enable Microsoft Teams integration"; ObjectID = "1w6-mg-dF9"; */
+"1w6-mg-dF9.title" = "Включить интеграцию с Microsoft Teams"; 
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "3Cc-Q9-Wf6"; */
+"3Cc-Q9-Wf6.title" = "Имя пользователя:"; 
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "3RN-rz-gK9"; */
+"3RN-rz-gK9.title" = "Пароль:"; 
+
+/* Class = "NSTextFieldCell"; title = "Microsoft Teams integration is only available with Microsoft 365 accounts."; ObjectID = "4pX-yF-QVb"; */
+"4pX-yF-QVb.title" = "Интеграция с Microsoft Teams доступна только для аккаунтов Microsoft 365."; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "6wt-Ok-wtE"; */
+"6wt-Ok-wtE.ibExternalAccessibilityDescription" = "имя пользователя"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Auto"; ObjectID = "ae2-1O-eNQ"; */
+"ae2-1O-eNQ.placeholderString" = "Авто"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "bO5-hc-DR0"; */
+"bO5-hc-DR0.placeholderString" = "Обязательно"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Automatic"; ObjectID = "bOW-pF-gtW"; */
+"bOW-pF-gtW.placeholderString" = "Авто"; 
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "Bq1-HZ-l5Y"; */
+"Bq1-HZ-l5Y.ibExternalAccessibilityDescription" = "пароль"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "C2d-u3-u2p"; */
+"C2d-u3-u2p.placeholderString" = "Обязательно"; 
+
+/* Class = "NSButtonCell"; title = "Configure Manually"; ObjectID = "cDk-Qo-8X8"; */
+"cDk-Qo-8X8.title" = "Настроить вручную"; 
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "Cri-g9-XRx"; */
+"Cri-g9-XRx.title" = "Добавить"; 
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "d6z-xp-aOO"; */
+"d6z-xp-aOO.placeholderString" = "Обязательно"; 
+
+/* Class = "NSMenuItem"; title = "Advanced"; ObjectID = "DjN-8k-tIc"; */
+"DjN-8k-tIc.title" = "Расширенные"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Required"; ObjectID = "dY5-Ot-oDK"; */
+"dY5-Ot-oDK.placeholderString" = "Обязательно"; 
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify user name or password."; ObjectID = "Fay-Vo-Fq1"; */
+"Fay-Vo-Fq1.title" = "Не удалось проверить имя пользователя или пароль."; 
+
+/* Class = "NSTextFieldCell"; title = "Exchange URL:"; ObjectID = "fLn-hb-1tS"; */
+"fLn-hb-1tS.title" = "URL Exchange:"; 
+
+/* Class = "NSTextFieldCell"; title = "Email Address:"; ObjectID = "fM7-fg-UWu"; */
+"fM7-fg-UWu.title" = "Адрес электронной почты:"; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "server address"; ObjectID = "grV-Au-KgO"; */
+"grV-Au-KgO.ibExternalAccessibilityDescription" = "адрес сервера"; 
+
+/* Class = "NSTextFieldCell"; title = "Server Address:"; ObjectID = "gvJ-88-JQb"; */
+"gvJ-88-JQb.title" = "Адрес сервера:"; 
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "H4D-iI-1zI"; */
+"H4D-iI-1zI.title" = "Имя пользователя:"; 
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "hb9-Mm-dev"; */
+"hb9-Mm-dev.title" = "Порт:"; 
+
+/* Class = "NSButtonCell"; title = "Use SSL"; ObjectID = "Jpx-1Q-i5n"; */
+"Jpx-1Q-i5n.title" = "Использовать SSL"; 
+
+/* Class = "NSMenuItem"; title = "Simple"; ObjectID = "KrP-wd-S3o"; */
+"KrP-wd-S3o.title" = "Простой"; 
+
+/* Class = "NSTextFieldCell"; placeholderString = "Automatic"; ObjectID = "lCl-5a-64G"; */
+"lCl-5a-64G.placeholderString" = "Авто"; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "LJo-0h-OwZ"; */
+"LJo-0h-OwZ.ibExternalAccessibilityDescription" = "имя пользователя"; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "Mt9-nx-YEG"; */
+"Mt9-nx-YEG.ibExternalAccessibilityDescription" = "имя пользователя"; 
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "o26-Ry-F0p"; */
+"o26-Ry-F0p.title" = "Добавить"; 
+
+/* Class = "NSTextFieldCell"; title = "User Name:"; ObjectID = "OFF-vG-ndd"; */
+"OFF-vG-ndd.title" = "Имя пользователя:"; 
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "Oyz-NO-fEf"; */
+"Oyz-NO-fEf.ibExternalAccessibilityDescription" = "пароль"; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "PBP-LQ-8s5"; */
+"PBP-LQ-8s5.ibExternalAccessibilityDescription" = "имя пользователя"; 
+
+/* Class = "NSSecureTextFieldCell"; placeholderString = "Required"; ObjectID = "PdE-NU-UFY"; */
+"PdE-NU-UFY.placeholderString" = "Обязательно"; 
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "RVy-Kb-LaA"; */
+"RVy-Kb-LaA.title" = "Пароль:"; 
+
+/* Class = "NSTextFieldCell"; title = "Server Path:"; ObjectID = "TO5-Zb-xQI"; */
+"TO5-Zb-xQI.title" = "Путь к серверу:"; 
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "uhx-XG-M3t"; */
+"uhx-XG-M3t.title" = "Отмена"; 
+
+/* Class = "NSTextFieldCell"; title = "Server Type:"; ObjectID = "vgi-v8-T9X"; */
+"vgi-v8-T9X.title" = "Тип сервера:"; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "server port"; ObjectID = "VPB-Uc-B5z"; */
+"VPB-Uc-B5z.ibExternalAccessibilityDescription" = "порт сервера"; 
+
+/* Class = "NSTextFieldCell"; title = "Unable to verify user name or password."; ObjectID = "XWE-yt-JTF"; */
+"XWE-yt-JTF.title" = "Не удалось проверить имя пользователя или пароль."; 
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "YJZ-L8-nce"; */
+"YJZ-L8-nce.title" = "Отмена"; 
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "user name"; ObjectID = "z1j-b3-7E9"; */
+"z1j-b3-7E9.ibExternalAccessibilityDescription" = "имя пользователя"; 

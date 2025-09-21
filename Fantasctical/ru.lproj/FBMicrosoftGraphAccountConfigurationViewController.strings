@@ -1,0 +1,20 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Description"; ObjectID = "D2n-WI-uxS"; */
+"D2n-WI-uxS.placeholderString" = "Описание";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "eLs-de-Zkn"; */
+"eLs-de-Zkn.title" = "Описание:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "description"; ObjectID = "pR1-va-GRp"; */
+"pR1-va-GRp.ibExternalAccessibilityDescription" = "описание";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "enable account"; ObjectID = "scU-4E-0sW"; */
+"scU-4E-0sW.ibExternalAccessibilityDescription" = "включить учётную запись";
+
+/* Class = "NSButton"; ibExternalAccessibilityHelp = "enable to enable this account"; ObjectID = "scU-4E-0sW"; */
+"scU-4E-0sW.ibExternalAccessibilityHelp" = "включите, чтобы активировать эту учётную запись";
+
+/* Class = "NSButtonCell"; title = "Enable this account"; ObjectID = "TyW-29-YNc"; */
+"TyW-29-YNc.title" = "Включить эту учётную запись";
+
+/* Class = "NSButtonCell"; title = "Add Microsoft Teams to new events"; ObjectID = "yp0-NP-UnF"; */
+"yp0-NP-UnF.title" = "Добавлять встречу Microsoft Teams\nк новым событиям";

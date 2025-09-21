@@ -1,0 +1,56 @@
+/* Class = "NSTextFieldCell"; title = "Calendar Set:"; ObjectID = "0U3-kk-9hl"; */
+"0U3-kk-9hl.title" = "Набор календарей:";
+
+/* Class = "NSTextFieldCell"; title = "View:"; ObjectID = "3LG-Lt-Cxb"; */
+"3LG-Lt-Cxb.title" = "Вид:";
+
+/* Class = "NSButtonCell"; title = "Skip empty days"; ObjectID = "5au-z8-AMc"; */
+"5au-z8-AMc.title" = "Пропускать пустые дни";
+
+/* Class = "NSTextFieldCell"; title = "Paper:"; ObjectID = "5oa-yr-zgo"; */
+"5oa-yr-zgo.title" = "Бумага:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "8Jg-dj-oHC"; */
+"8Jg-dj-oHC.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "Ends:"; ObjectID = "af0-03-zwx"; */
+"af0-03-zwx.title" = "Окончание:";
+
+/* Class = "NSButtonCell"; title = "All-day events"; ObjectID = "afs-ep-rFo"; */
+"afs-ep-rFo.title" = "Целодневные события";
+
+/* Class = "NSView"; ibExternalAccessibilityDescription = "is enabled"; ObjectID = "ast-at-Xtr"; */
+"ast-at-Xtr.ibExternalAccessibilityDescription" = "включено";
+
+/* Class = "NSButtonCell"; title = "Calendar week numbers"; ObjectID = "boA-rm-Oed"; */
+"boA-rm-Oed.title" = "Номера недель";
+
+/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "bOq-UP-EJw"; */
+"bOq-UP-EJw.title" = "Размер текста:";
+
+/* Class = "NSButtonCell"; title = "Mini calendar"; ObjectID = "Cdt-9p-h9J"; */
+"Cdt-9p-h9J.title" = "Мини-календарь";
+
+/* Class = "NSButtonCell"; title = "Black and white"; ObjectID = "gc5-ot-ZP8"; */
+"gc5-ot-ZP8.title" = "Чёрно-белый";
+
+/* Class = "NSTextFieldCell"; title = "Starts:"; ObjectID = "IcS-Gs-NTY"; */
+"IcS-Gs-NTY.title" = "Начало:";
+
+/* Class = "NSButtonCell"; title = "Calendar keys"; ObjectID = "KV7-Dz-F7l"; */
+"KV7-Dz-F7l.title" = "Легенда календарей";
+
+/* Class = "NSTextFieldCell"; title = "Zoom:"; ObjectID = "Lby-Cn-uLh"; */
+"Lby-Cn-uLh.title" = "Масштаб:";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "NQd-uI-7m3"; */
+"NQd-uI-7m3.title" = "Продолжить";
+
+/* Class = "NSTextFieldCell"; title = "weeks"; ObjectID = "u7i-DL-iz1"; */
+"u7i-DL-iz1.title" = "недель";
+
+/* Class = "NSButtonCell"; title = "Tasks"; ObjectID = "v3z-cU-2SZ"; */
+"v3z-cU-2SZ.title" = "Задачи";
+
+/* Class = "NSButtonCell"; title = "Timed events"; ObjectID = "Ws3-bq-Uo5"; */
+"Ws3-bq-Uo5.title" = "События с временем";

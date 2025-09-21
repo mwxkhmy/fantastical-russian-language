@@ -1,0 +1,32 @@
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "8wT-2O-pYa"; */
+"8wT-2O-pYa.title" = "Имя:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "9D9-BR-zpJ"; */
+"9D9-BR-zpJ.title" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "License Fantastical"; ObjectID = "9lG-wd-qNX"; */
+"9lG-wd-qNX.title" = "Активация Fantastical";
+
+/* Class = "NSButtonCell"; title = "License"; ObjectID = "BEK-ft-04j"; */
+"BEK-ft-04j.title" = "Активировать";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Code"; ObjectID = "D9J-iY-NME"; */
+"D9J-iY-NME.placeholderString" = "Ключ";
+
+/* Class = "NSWindow"; title = "License Fantastical"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "Активация Fantastical";
+
+/* Class = "NSTextFieldCell"; title = "Code:"; ObjectID = "quy-4B-DOp"; */
+"quy-4B-DOp.title" = "Ключ:";
+
+/* Class = "NSTextFieldCell"; title = "If you purchased Fantastical 2 you can use your existing license to unlock all of the features that were available in Fantastical 2. You need to subscribe to use the new features.\n\nEnter your name and code exactly as they appear in your purchase email.\n\nYou can also click the link from your purchase email and Fantastical will unlock automatically."; ObjectID = "Rpx-cj-7cp"; */
+"Rpx-cj-7cp.title" = "Если вы приобрели Fantastical 2, вы можете использовать существующую лицензию, чтобы разблокировать все функции, доступные в Fantastical 2. Для новых функций требуется подписка.\n\nВведите имя и ключ точно так, как они указаны в письме о покупке.\n\nТакже можно перейти по ссылке из письма — тогда Fantastical активируется автоматически.";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Your Name"; ObjectID = "sZa-tp-5tb"; */
+"sZa-tp-5tb.placeholderString" = "Ваше имя";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "license code"; ObjectID = "x0x-o8-gF6"; */
+"x0x-o8-gF6.ibExternalAccessibilityDescription" = "ключ активации";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "your name"; ObjectID = "Xks-RK-8AL"; */
+"Xks-RK-8AL.ibExternalAccessibilityDescription" = "ваше имя";

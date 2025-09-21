@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Account Key:"; ObjectID = "5Yh-IA-foY"; */
+"5Yh-IA-foY.title" = "Ключ учётной записи:";
+
+/* Class = "NSTextFieldCell"; title = "Enter Flexibits Account Key"; ObjectID = "8mA-un-6uO"; */
+"8mA-un-6uO.title" = "Введите ключ учётной записи Flexibits";
+
+/* Class = "NSButtonCell"; title = "Reset Sync Data"; ObjectID = "H6G-HD-vqa"; */
+"H6G-HD-vqa.title" = "Сбросить синхронизированные данные";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "JHN-4U-OiE"; */
+"JHN-4U-OiE.title" = "OK";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "V1y-Sv-2yF"; */
+"V1y-Sv-2yF.title" = "Выйти";
+
+/* Class = "NSTextFieldCell"; title = "Enter the account key from your other device that is signed in to Cardhop or Fantastical. You can find your account key in the Flexibits Account settings of Cardhop or Fantastical.\n\nYour account key is used to secure the data that is synced between your devices.\n\nIf you can't find your account key you can reset your sync data. Your events, tasks, and contacts will not be affected, but this will reset your settings that are synced between devices, like calendar sets and templates in Fantastical."; ObjectID = "wTB-xe-opB"; */
+"wTB-xe-opB.title" = "Введите ключ учётной записи с другого устройства, где выполнен вход в Cardhop или Fantastical. Ключ учётной записи можно найти в настройках Flexibits Account в Cardhop или Fantastical.\n\nКлюч используется для защиты синхронизируемых между устройствами данных.\n\nЕсли вы не можете найти ключ, можно сбросить синхронизированные данные. События, задачи и контакты не пострадают, но сбросятся настройки, синхронизируемые между устройствами, например группы календарей и шаблоны в Fantastical.";
